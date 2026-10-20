@@ -195,3 +195,4 @@ The repository also retains selected legacy components for reference. The active
 **Project:** Automated Web-Based Faculty Upscaling for Higher Education  
 **Type:** B.Tech Computer Science and Engineering team project  
 **Year:** 2024
+**Original Thesis Paper:** [View PDF](https://drive.google.com/file/d/1UmRA_YZNgE_Ma137eHOwMWT8VNOCxbJx/view)
