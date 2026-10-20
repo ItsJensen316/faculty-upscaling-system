@@ -1,20 +1,86 @@
 # Automated Web-Based Faculty Upscaling for Higher Education
 
-Restored **academic team project / portfolio demonstration** based on the November 2024 thesis. The restored app uses **React**, an optional **Express API**, a real **Python (NLTK + scikit-learn)** recommender, and optional **MongoDB** demo persistence.
+A web-based faculty development platform that recommends NPTEL courses based on educators' academic backgrounds and professional interests. The application combines a React interface, an Express API, a Python content-based recommendation engine, and optional MongoDB persistence.
 
-## Quick demo (frontend only)
+Originally developed as a B.Tech Computer Science and Engineering academic team project (2024), this repository contains a restored, demonstration-ready version.
 
-```bash
-cd client
-npm install
-npm start
+## Application Preview
+
+### Faculty Dashboard
+![Faculty Dashboard](assets/faculty-dashboard.png)
+
+### Personalized Course Recommendations
+![Course Recommendations](assets/recommendations.png)
+
+### Learning Path & Progress Tracking
+![Learning Path](assets/learning-path.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/admin-dashboard.png)
+
+## Features
+
+- Faculty profile with designation, department, interests, and completed courses
+- Six personalized NPTEL course recommendations
+- Course details, prerequisites, durations, and available enrollment links
+- Learning-path enrollment and manually updated progress tracking
+- Appraisal feedback and a simplified administrator dashboard
+- Optional MongoDB storage for the shared demonstration profile, progress, feedback, and generated recommendations
+- Browser-based recommendation and localStorage fallback when the backend is unavailable
+
+> The admin role switch is for demonstration only. This version does not implement secure multi-user authentication, authorization, Google sign-in, password reset, or integration with NPTEL completion records. Do not expose its unauthenticated API publicly or use real faculty personal information.
+
+## Technology Stack
+
+| Layer | Technology |
+| --- | --- |
+| Frontend | React, JavaScript, CSS |
+| Backend | Node.js, Express |
+| Recommendation engine | Python, NLTK, scikit-learn |
+| Database | MongoDB, Mongoose (optional for local demos) |
+| Course data | NPTEL Faculty Development Programme dataset |
+
+## How Recommendations Work
+
+1. Course titles and descriptions are read from `server/CourseSheet.csv`.
+2. Course information is normalized and stemmed using NLTK's Porter stemmer.
+3. scikit-learn's `CountVectorizer` converts text into numerical features.
+4. Faculty interests, specialization, department, and designation are processed using the same vectorizer.
+5. Cosine similarity ranks the available courses by relevance to the faculty profile.
+6. The six highest-ranked eligible courses are returned, excluding exact titles already marked as completed.
+
+The recommender is content-based: it does not use collaborative filtering, neural networks, or faculty performance labels. The vectorizer is rebuilt when the Python script runs, which is acceptable for this small dataset.
+
+## Architecture
+
+```text
+React frontend (localhost:3000)
+           |
+           | HTTP requests
+           v
+Express API (localhost:5000) ---- MongoDB (optional)
+           |
+           | Starts Python for recommendation requests
+           v
+Python NLP recommender
+           |
+           v
+NPTEL CSV + CountVectorizer + cosine similarity
 ```
 
-Open http://localhost:3000. Runs without Python, Express, or MongoDB via its browser-based recommendation fallback and localStorage.
+Express starts `server/recommend.py` when the frontend requests new recommendations; Python does not run continuously. With MongoDB enabled, Express also saves generated recommendations to the shared demo document.
 
-## Run full Python recommendation flow
+## Getting Started
 
-Install Node.js 18+, Python 3.10+; from the repo root:
+### Requirements
+
+- Node.js and npm
+- Python 3.10 or newer
+- MongoDB Community Server or MongoDB Atlas (optional)
+
+### Run the backend
+
+From the repository root:
 
 ```bash
 cd server
@@ -23,7 +89,11 @@ npm install
 npm start
 ```
 
-In a **second** terminal:
+The Express API runs at `http://localhost:5000`.
+
+### Run the frontend
+
+Open another terminal from the repository root:
 
 ```bash
 cd client
@@ -31,39 +101,97 @@ npm install
 npm start
 ```
 
-The React interface automatically uses the Python scikit-learn recommender while the API is reachable. The sidebar identifies the active engine. To check:
+Open `http://localhost:3000`.
 
-```bash
-curl http://localhost:5000/api/health
-curl -X POST http://localhost:5000/api/recommendations -H "Content-Type: application/json" -d '{"profile":{"department":"Computer Science and Engineering","interests":"machine learning artificial intelligence"}}'
+If the Express API is available, the frontend uses the Python recommender. Otherwise, it falls back to browser-based recommendations and localStorage for the demonstration.
+
+## MongoDB Configuration
+
+Copy `server/.env.example` to `server/.env` and configure the values:
+
+```dotenv
+PORT=5000
+CLIENT_ORIGIN=http://localhost:3000
+MONGODB_URI=mongodb://127.0.0.1:27017/faculty_upscaling
+PYTHON_BIN=python
 ```
 
-On Windows PowerShell use `Invoke-RestMethod` for these requests, or use `python server/recommend.py` with JSON on stdin.
+For MongoDB Atlas, replace `MONGODB_URI` with your own Atlas driver connection string, specifying the `faculty_upscaling` database. Keep passwords and other credentials out of version control.
 
-## Optional MongoDB
+After restarting Express, visit `http://localhost:5000/api/health` and check that `mongo` is `connected`.
 
-Copy `server/.env.example` to `server/.env`. Set `MONGODB_URI=mongodb://127.0.0.1:27017/faculty_upscaling` and start local MongoDB, or use a MongoDB Atlas URI. Restart Express. `GET /api/health` must now show `"mongo":"connected"`. The demo's single shared record is saved to the `demorecords` collection in database `faculty_upscaling`; the frontend also continues to store local copies. View persisted data with `mongosh faculty_upscaling --eval 'db.demorecords.find().pretty()'`. If MongoDB is unavailable, API and frontend remain usable. Never commit `.env` or real credentials.
+The demonstration data is stored in:
 
-**Important:** This demo uses a public, unauthenticated API, and a role switch; the shared MongoDB document is for *local demonstration only*. Do not expose this server to the internet or use personal faculty data. Multi-user authentication, JWT, role-based access control, Google sign-in, and password reset are not implemented in this restored demo.
+```text
+Database:   faculty_upscaling
+Collection: demorecords
+Document:   faculty-demo
+```
 
-## NLP pipeline
+The document holds faculty profile data, learning progress, appraisal feedback, and the most recently generated recommendations. Existing browser localStorage data may take precedence when reopening the frontend.
 
-`server/recommend.py` reads the original `CourseSheet.csv` and constructs document features using lowercase normalization, Porter stemming, scikit-learn `CountVectorizer(max_features=20000, stop_words="english")`, and cosine similarity. Unlike the legacy `script.py`, it vectorizes the **actual faculty interests, specialization, expertise, department and designation** with the *same vectorizer* used for courses. Six ranked courses are returned, excluding exact previously completed course titles. No offline pickle model is required; models are recomputed per API request. Suitable for this small dataset, not an optimized deployment.
+## API Endpoints
 
-The original raw NPTEL dataset is preserved. Course links were collected around 2024, so some may have expired. The historic backend models/components remain in the repository as reference; **the active demo uses `client/src/demo/PortfolioDemo.js`, `server/index.js` and `server/recommend.py`.**
+| Method | Endpoint | Description |
+| --- | --- | --- |
+| GET | `/api/health` | Check API and database status |
+| POST | `/api/recommendations` | Generate six ranked recommendations with Python |
+| GET | `/api/demo` | Read the saved demonstration profile |
+| PUT | `/api/demo` | Save the demonstration profile and progress |
 
-## Suggested live walkthrough
+### Example: Recommendation Request (PowerShell)
 
-Edit faculty interests → see Python-driven recommendations → add a course → adjust progress → switch to admin dashboard → add appraisal feedback. You can also demonstrate saving to MongoDB by querying `demorecords` after editing the profile. For a GitHub README, describe authentication/admin controls as demonstration-only, not secure multi-user functionality.
+```powershell
+$body = @{
+    profile = @{
+        designation = "Assistant Professor"
+        department = "Computer Science and Engineering"
+        specialization = "Artificial Intelligence"
+        interests = "Machine Learning, Deep Learning, Data Science"
+    }
+} | ConvertTo-Json -Depth 5
 
-## GitHub
+Invoke-RestMethod `
+    -Uri "http://localhost:5000/api/recommendations" `
+    -Method Post `
+    -ContentType "application/json" `
+    -Body $body
+```
 
-This archive intentionally excludes `.git`. Unzip it into a *new branch* of your existing repository (or copy changed files), review `git diff`, and commit/push only once you're happy. Never overwrite your repository without a backup.
+## Testing
 
-## Verification status
-
-Checked in the packaging environment: Python compilation, Python recommendation generation from the real CSV, five recommender unit tests, and Node server syntax. **A complete Express/React browser test and actual MongoDB handshake were not possible here** because npm package downloads were unavailable and no MongoDB service was running. Run `npm install` with internet access and verify `GET /api/health` after enabling MongoDB. MongoDB persistence code is implemented but is not claimed to have been tested against a real database in this environment.
+From the repository root, run the Python unit tests:
 
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+For an end-to-end demonstration, update faculty interests, generate recommendations, enroll in a course, change its progress, and add appraisal feedback from the admin view. If MongoDB is enabled, inspect the `faculty-demo` document in MongoDB Compass to confirm persistence.
+
+## Project Structure
+
+```text
+client/               React application
+server/
+  index.js            Express API and MongoDB integration
+  recommend.py        Python recommendation engine
+  CourseSheet.csv     NPTEL course dataset
+  .env.example        Example server configuration
+tests/                Recommendation tests
+README.md
+```
+
+The repository also retains selected legacy components for reference. The active demonstration interface is `client/src/demo/PortfolioDemo.js`.
+
+## Notes
+
+- Course information and links were collected around the original academic project period; some NPTEL links may now be outdated.
+- Progress values are managed within the application and are not synchronized with NPTEL.
+- The restored demo uses one shared faculty record; multi-user support requires additional authentication and data modeling.
+- The Python recommendation endpoint requires the backend and Python dependencies; the browser fallback is a separate implementation.
+
+## Academic Context
+
+**Project:** Automated Web-Based Faculty Upscaling for Higher Education  
+**Type:** B.Tech Computer Science and Engineering team project  
+**Year:** 2024
