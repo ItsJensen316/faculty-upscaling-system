@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "noc24-cs01",
+    "title": "Foundations of Cryptography",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIIT Bangalore",
+    "duration": "12 Weeks",
+    "description": "The course provides the basic paradigm and principles of modern cryptography. The focus of this course will be on definitions and constructions of various cryptographic objects. We will try to understand what security properties are desirable in such objects, how to formally define these properties, and how to design objects that satisfy the definitions.  The aim is that at the end of this course, the students are able to understand a significant portion of current cryptography research papers and standards.",
+    "prerequisite": "There are no pre-requisites for this course. However it is expected that the students who are interested to take this course have had some exposure to a basic course on discrete mathematics, algorithms, or theory of computation. Having said that, I e",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs02/preview"
+  },
+  {
+    "id": "noc24-cs02",
+    "title": "Introduction to programming in C",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "This is a course in programming in C. No prior programming experience is assumed; however, mathematical maturity at the level of a second year science or engineering undergraduate is assumed. We emphasize solving problems using the language, and introduce standard programming techniques like alternation, iteration and recursion. We will briefly glimpse the basics of software engineering practices like modularization, commenting, and naming conventions which help in collaborating and programming in teams. Given a problem, we pay attention to the",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs40/preview"
+  },
+  {
+    "id": "noc24-cs03",
+    "title": "Linear programming and its applications to computer science",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "Linear programming is a special class of mathematical optimization problems where the constraints as well as the cost function is linear. This class of problems have known efficient algorithms, deep structural properties and wide applications in various fields.",
+    "prerequisite": "Linear algebra",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs03/preview"
+  },
+  {
+    "id": "noc24-cs04",
+    "title": "Privacy and Security in Online Social Media",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIITH",
+    "duration": "12 weeks",
+    "description": "With increase in the usage of the Internet, there has been an exponential increase in the use of online social media and networks on the Internet. Websites like Facebook, YouTube, LinkedIn, Twitter, Flickr, Instagram, Google+, FourSquare, Pinterest, Tinder, and the likes have changed the way the Internet is being used. However, widely used, there is a lack of understanding of privacy and security issues on online social media. Privacy and security of online social media need to be investigated, studied and characterized from various perspective",
+    "prerequisite": " Basic / Intermediate programming course. Understanding of Python will be necessary for the course. Should be able to quickly learn APIs, and to collect data from social networks.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs13/preview"
+  },
+  {
+    "id": "noc24-cs05",
+    "title": "Basics of Computational Complexity",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "We will start this course by mathematically formalizing computation and algorithms. Our approach in the course would be to look at famous concrete problems and prove theorems about their uncomputability, or, if computable, then how fast can they be computationally solved. The problems we will cover in this course are: the halting problem, boolean formula satisfiability (the P!=NP question), quantified boolean formula, formula minimization, polynomial identity testing, undirected graph reachability, permanent and graph isomorphism. While studyin",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs05/preview"
+  },
+  {
+    "id": "noc24-cs06",
+    "title": "Advanced Computer Architecture",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "This course is on Advanced Computer Architecture. It will introduce students to advanced aspects of processor design and will specifically focus on out-of-order pipelines, GPUs, and compiler techniques for enhancing ILP. The course will subsequently move on to cache design and main memory technologies such as DDR-4. A substantial portion of the course will be devoted to the theory of on-chip networks and memory models. The last part of the course will cover aspects of low-power design, hardware security, and reliability.",
+    "prerequisite": "Computer Architecture (2 nd year level)",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs06/preview"
+  },
+  {
+    "id": "noc24-cs07",
+    "title": "Secure Computation: Part I",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIIT Bangalore",
+    "duration": "12 Weeks",
+    "description": "This course will discuss about how using various cryptographic primitives, one can do computation on distributed and sensitive data, also known as secure multi-party computation (MPC) , which  is one of the most fundamental problems in cryptography as well as distributed computing. The need for distributed computation on private data arises in several real-world applications that require computations involving sensitive data from two or more mutually distrusting entities. Consider the following example, which is one of the latest applications o",
+    "prerequisite": "The participant should have done a basic course on Cryptography (such as the Foundations of Cryptography course available on NPTEL) and a basic course on Discrete Mathematics",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs91/preview"
+  },
+  {
+    "id": "noc24-cs08",
+    "title": "An Introduction to Artificial Intelligence",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "The course introduces the variety of concepts in the field of artificial intelligence. It discusses the philosophy of AI, and how to model a new problem as an AI problem. It describes a variety of models such as search, logic, Bayes nets, and MDPs, which can be used to model a new problem. It also teaches many first algorithms to solve each formulation. The course prepares a student to take a variety of focused, advanced courses in various subfields of AI.",
+    "prerequisite": "Data Structures, Probability",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs08/preview"
+  },
+  {
+    "id": "noc24-cs09",
+    "title": "Cloud Computing and Distributed Systems",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "Cloud computing is the on-demand delivery of computations, storage, applications, and other IT resources through a cloud services platform over the internet with pay-as-you-go business model. Today's Cloud computing systems are built using fundamental principles and models of distributed systems. This course provides an in-depth understanding of distributed computing “concepts”, distributed algorithms, and the techniques, that underlie today's cloud computing technologies. The cloud computing and distributed systems concepts and models covered ",
+    "prerequisite": "Data Structures and Algorithms",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs27/preview"
+  },
+  {
+    "id": "noc24-cs10",
+    "title": "Switching Circuits and Logic Design",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This course will discuss the basic background of switching circuits, and discuss techniques for mapping the theory to actual hardware circuits. Synthesis and minimization techniques of combinational and sequential circuits shall be discussed in detail. Designing circuits using high-level functional blocks shall also be discussed. The course will closely follow the undergraduate curriculum existing in most engineering colleges.",
+    "prerequisite": "Basic knowledge of electronics and electrical circuitsl",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs67/preview"
+  },
+  {
+    "id": "noc24-cs11",
+    "title": "Advanced Computer Networks",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Indore IIT Gandhi nagar",
+    "duration": "12 Weeks",
+    "description": "This is an advanced course on Computer Networks covering four main contemporary topics namely how high performance networks are designed covering algorithms and implementations, data center networking, information centric networking and network softwarization: software defined networking, network virtualization and programmable networks. This course assumes a basic knowledge of computer networks and working proficiency with Unix/Linux Operating Systems. It has practical component with programming assignments giving hands on to the students.",
+    "prerequisite": "Computer Networks and Computer Architecture Courses are Prerequisites",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs35/preview"
+  },
+  {
+    "id": "noc24-cs12",
+    "title": "Affective Computing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIITD",
+    "duration": "12 Weeks",
+    "description": "Affective Computing focuses on enabling the machines with emotion recognition and adaptive interaction. It lies in the intersection of Computer Science, design and human psychology. This course will overview the emotion theory, computational modelling of emotions, analysis of emotions using different modalities (such as voice, facial expressions, physiological signals etc) and related machine learning and/or signal processing techniques. We will also discuss ethical, legal and social implications of affective computing particularly in relation ",
+    "prerequisite": "Deep Learning",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs36/preview"
+  },
+  {
+    "id": "noc24-cs13",
+    "title": "AI:Constraint Satisfaction",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "8 Weeks",
+    "description": "Human beings solve problems in many different ways. Problem solving in artificial intelligence (AI) is inspired from these diverse approaches. AI problem solvers may be based on search, on memory, or on knowledge representation and reasoning. An approach to problem solving is to pose problems as constraint satisfaction problems (CSP), and employ general methods to solve them. The task of a user then is only to pose a problem as a CSP, and then call an off-the-shelf solver. CSPs are amenable to combining search based methods with reasoning. In t",
+    "prerequisite": "Exposure to AI:  Search Methods for Problem Solving and AI: Knowledge Representation & Reasoning helps, but is not necessary.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs06/preview"
+  },
+  {
+    "id": "noc24-cs14",
+    "title": "Artificial Intelligence: Knowledge Representation And Reasoning",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "An intelligent agent needs to be able to solve problems in its world. The ability to create representations of the domain of interest and reason with these representations is a key to intelligence. In this course we explore a variety of representation formalisms and the associated algorithms for reasoning. We start with a simple language of propositions, and move on to first order logic, and then to representations for reasoning about action, change, situations, and about other agents in incomplete information situations. This course is a compa",
+    "prerequisite": "Some exposure to formal languages, logic and programming ",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs09/preview"
+  },
+  {
+    "id": "noc24-cs15",
+    "title": "Blockchain and its Applications",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "In the last few years, Blockchain technology has generated massive interest among governments, enterprises, and academics, because of its capability of providing a transparent, secured, tamper-proof solution for interconnecting different stakeholders in a trustless setup. In January 2021, the Ministry of Electronics and Information Technology (MeiTY), Government of India, published the first draft of the \"National Strategy on Blockchain\" that highlights 17 potential applications that are of national interest. Against this backdrop, this subject",
+    "prerequisite": "Computer Networks; Operating Systems; Cryptography and Network Security.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs47/preview"
+  },
+  {
+    "id": "noc24-cs16",
+    "title": "Circuit Complexity Theory",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "This is a course on Boolean Circuit Complexity. In this course we study the Boolean circuit model of computation. We prove upper and lower bounds on circuit resources such as depth and size. The course is entirely mathematical, and a good level of mathematical maturity is essential. Prior knowledge of discrete mathematics, probability and basic algebra are prerequisites for this course. The course is intended for students who wish to pursue research in theoretical computer science.",
+    "prerequisite": "Basic undergraduate course in Theory of Computation and Algorithms. Undergraduate algebra and discrete mathematics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs37/preview"
+  },
+  {
+    "id": "noc24-cs17",
+    "title": "Cloud Computing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Cloud computing is a scalable services consumption and delivery platform that provides on-demand computing service for shared pool of resources, namely servers, storage, networking, software, database, applications etc., over the Internet. It is a model for enabling ubiquitous, on-demand access to a shared pool of configurable computing resources, which can be rapidly provisioned and released with minimal management effort. This course will introduce various aspects of cloud computing, including fundamentals, management issues, security challen",
+    "prerequisite": "Basics of Computer Architecture and Organization, Networking",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs62/preview"
+  },
+  {
+    "id": "noc24-cs19",
+    "title": "Computer Networks And Internet Protocol",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The domain of Internet has grown in a rapid pace from traditional circuit switched and packet switched small scale networks to modern high-speed mobile and wireless Internet. A large number of methods, architectures and designs came up at every protocol level to cop up with the demands for developing a secure and highly dependable information technology infrastructure. The broad objective of the course is to understand - (i) the architecture and principles of today's computer networks, (ii) the protocols and their functionalities, (iii) the req",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs18/preview"
+  },
+  {
+    "id": "noc24-cs20",
+    "title": "Data Analytics with Python",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "We are looking forward to sharing many exciting stories and examples of analytics with all of you using python programming language. This course includes examples of analytics in a wide variety of industries, and we hope that students will learn how you can use analytics in their career and life. One of the most important aspects of this course is that you, the student, are getting hands-on experience creating analytics models; we, the course team, urge you to participate in the discussion forums and to use all the tools available to you while ",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs46/preview"
+  },
+  {
+    "id": "noc24-cs21",
+    "title": "Data Base Management System",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "Databases form the backbone of all major applications today – tightly or loosely coupled, intranet or internet based, financial, social, administrative, and so on. Structured Database Management Systems (DBMS) based on relational and other models have long formed the basis for such databases. Consequently, Oracle, Microsoft SQL Server, Sybase etc. have emerged as leading commercial systems while MySQL, PostgreSQL etc. lead in open source and free domain. While DBMS’s differ in the details, they share a common set of models, design paradigms and",
+    "prerequisite": "Procedural and / or Object-Oriented Programming (C / C++ / Java / Python)",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs09/preview"
+  },
+  {
+    "id": "noc24-cs22",
+    "title": "Data Mining",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "Data mining is study of algorithms for finding patterns in large data sets. It is an integral part of modern industry, where data from its operations and customers are mined for gaining business insight. It is also important in modern scientific endeavors. Data mining is an interdisciplinary topic involving, databases, machine learning and algorithms. The course will cover the fundamentals of data mining. It will explain the basic algorithms like data preprocessing, association rules, classification, clustering, sequence mining and visualizatio",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs11/preview"
+  },
+  {
+    "id": "noc24-cs23",
+    "title": "Design and analysis of algorithms",
+    "discipline": "Computer Science and Engineering",
+    "institute": "CMI",
+    "duration": "8 Weeks",
+    "description": "This course will cover basic concepts in the design and analysis of algorithms. Asymptotic complexity, O() notation Sorting and search Algorithms on graphs: exploration, connectivity, shortest paths, directed acyclic graphs, spanning trees Design techniques: divide and conquer, greedy, dynamic programming Data structures: heaps, union of disjoint sets, search trees Intractability",
+    "prerequisite": " Exposure to introductory courses on programming and data structures.",
+    "url": "https://onlinecourses.nptel.ac.in/noc19_cs47/preview"
+  },
+  {
+    "id": "noc24-cs24",
+    "title": "Embedded System Design with ARM",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "This course will discuss about the basic concepts of embedded system design, with particular emphasis on hands-on and demonstration sessions on system design using ARM microcontrollers. Keeping in view of the recent developments, this course will be based on state-of-the-art microcontroller boards and programming environments. This course will also help the participants to understand the developmental aspects of Internet of Things (IoT) based designs. Starting from the basics, the participants will be introduced to various interfacing issues wi",
+    "prerequisite": "Basic concepts in digital circuits and microprocessor",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs24/preview"
+  },
+  {
+    "id": "noc24-cs26",
+    "title": "Foundation of Cloud IoT Edge ML",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITP",
+    "duration": "8 Weeks",
+    "description": "Emerging Internet of Things (IoT) applications such as augmented reality, self-driving automobiles, and many others are delay sensitive and computation expensive, require real-time processing of massive amounts of data generated by distributed end users. Although the success of cloud computing for supporting high performance computing has been witnessed in recent years, its inefficiency in quality of service (QoS) provisioning for delay sensitive applications as well as high energy consumption has been the bottleneck for the development of dela",
+    "prerequisite": "Basics of Computer Architecture and Organization, Networking",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs65/preview"
+  },
+  {
+    "id": "noc24-cs27",
+    "title": "Foundations of Cyber Physical Systems",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Cyber-physical systems (CPS), which consist of physical systems tightly integrated and/or controlled by software, are ubiquitous in many safety critical domains, including automotive, avionics, railways, healthcare, atomic energy, power, and industrial automation. The principles of design and implementation of cyber-physical systems are remarkably different from that of other embedded systems because of the tight integration of real valued and dense time real time systems with software based discrete automated control. The objective of this cou",
+    "prerequisite": "Basic Programming Knowledge",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs62/preview"
+  },
+  {
+    "id": "noc24-cs28",
+    "title": "Fundamental Algorithms: Design And Analysis",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "4 Weeks",
+    "description": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs01/preview"
+  },
+  {
+    "id": "noc24-cs29",
+    "title": "Getting Started with Competitive Programming",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Gandhinagar",
+    "duration": "12 Weeks",
+    "description": "This is a course on algorithm design with a focus on issues of modeling and implementation. Each lecture will be focused entirely on one or two problems that reveal the use of a specific algorithmic technique. The techniques themselves are chosen to be in line with those covered in existing NPTEL courses on data structures and algorithms, so that students who complete those courses can find in this course a natural follow up. This course is intended for anyone who wants to deepen their appreciation for algorithmic techniques that they have lear",
+    "prerequisite": " Data Structures and Algorithms, Familiarity with a programming language (ideally C++ or Python)",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs59/preview"
+  },
+  {
+    "id": "noc24-cs30",
+    "title": "GPU Architectures And Programming",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course covers basics of conventional CPU architectures, their extensions for single instruction multiple data processing (SIMD) and finally the generalization of this concept in the form of single instruction multiple thread processing (SIMT) as is done in modern GPUs. We cover GPU architecture basics in terms of functional units and then dive into the popular CUDA programming model commonly used for GPU programming. In this context, architecture specific details like memory access coalescing, shared memory usage, GPU thread scheduling etc ",
+    "prerequisite": "Programming and Data Structure, Digital Logic, Computer architecture",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs46/preview"
+  },
+  {
+    "id": "noc24-cs31",
+    "title": "Information Security - 5 - Secure Systems Engineering",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "8 Weeks",
+    "description": "With the increase in the threat of cyber-security attacks, it is important to develop computer systems that are not only efficient but also secure. This course will discuss various vulnerabilities in systems and mechanisms by which these vulnerabilities can be mitigated. The first part of the course will discuss various security vulnerabilities in software code that, if left unfixed, can potentially lead to major cyber-attacks. We will see how these vulnerabilities can arise from simple programming flaws like a buffer that overflows, to complex",
+    "prerequisite": " C programming must be strongMinimum understanding of digital logic /operating systems/computer organization",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs10/preview"
+  },
+  {
+    "id": "noc24-cs32",
+    "title": "Introduction to Automata, Languages and Computation",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Automata, Languages and Computation have been an important part of the curriculum in computer science department for several decades.The automata theory is the study of abstract machines and theirapplication in solving computational problems. Automata is a major part of this course, and is explained elaborately throughout in easily comprehensible ways. Besides providing students with a detailedintroduction to the theories related to computer science, this course also fully covers mathematical preliminaries which are essential to computation.",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs32/preview"
+  },
+  {
+    "id": "noc24-cs33",
+    "title": "Introduction to Embedded System Design",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "Embedded Systems surround us in the form of gadgets and devices that we use. There is no aspect of human lives, which is untouched by such devices at home or for health diagnostics, transportation, entertainment. Learning out Embedded Systems will give the skills to design and manufacture embedded system products of the future which will help participants towards better employability. This course teaches embedded system design using a building block approach, which allows one to visualize the requirement of an embedded system and then to design",
+    "prerequisite": "Anyone with understanding of basic electronic components and circuits, digital electronics and C        programming.",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee98/preview"
+  },
+  {
+    "id": "noc24-cs34",
+    "title": "Introduction To Industry 4.0 And Industrial Internet Of Things",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Industry 4.0 concerns the transformation of industrial processes through the integration of modern technologies such as sensors, communication, and computational processing. Technologies such as Cyber Physical Systems (CPS), Internet of Things (IoT), Cloud Computing, Machine Learning, and Data Analytics are considered to be the different drivers necessary for the transformation. Industrial Internet of Things (IIoT) is an application of IoT in industries to modify the various existing industrial systems. IIoT links the automation system with ent",
+    "prerequisite": "Basic knowledge of computer and internet",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs20/preview"
+  },
+  {
+    "id": "noc24-cs35",
+    "title": "Introduction To Internet Of Things",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Internet of Things (IoT) is presently a hot technology worldwide. Government, academia, and industry are involved in different aspects of research, implementation, and business with IoT. IoT cuts across different application domain verticals ranging from civilian to defence sectors. These domains include agriculture, space, healthcare, manufacturing, construction, water, and mining, which are presently transitioning their legacy infrastructure to support IoT. Today it is possible to envision pervasive connectivity, storage, and computation, whi",
+    "prerequisite": "Basic programming knowledge",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs96/preview"
+  },
+  {
+    "id": "noc24-cs36",
+    "title": "Introduction to Machine Learning (Tamil)",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "8 Weeks",
+    "description": "A short course introducing the main ideas and algorithms of Machine Learning. The goal of the course is to cover the topics at a high level so that it would act as a first course for a full fledged Machine Learning course. The course will be delivered in spoken Tamil while the technical terms discussed/exams/assignments will be in English.",
+    "prerequisite": " A basic course in linear algebra/probability/programming/algorithms would be a big plus. These are not strong pre-requisites.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs58/preview"
+  },
+  {
+    "id": "noc24-cs37",
+    "title": "Introduction To Soft Computing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "Soft computing is an emerging approach to computing which parallel the remarkable ability of the human mind to reason and learn in an environment of uncertainty and imprecision. Soft computing is based on some biological inspired methodologies such as genetics, evolution, ant’s behaviors, particles swarming, human nervous systems, etc. Now, soft computing is the only solution when we don’t have any mathematical modeling of problem solving (i.e., algorithm), need a solution to a complex problem in real time, easy to adapt with changed scenario a",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs54/preview"
+  },
+  {
+    "id": "noc24-cs38",
+    "title": "Machine Learning for Engineering and science applications",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "Recent applications of machine learning have exploded due to cheaply available computational resources as well as wide availability of data. Machine Learning (ML) techniques provides a set of tools that can automatically detect patterns in data which can then be utilized for predictions and for developing models. Developments in ML algorithms and computational capabilities have now made it possible to scale engineering analysis, decision making and design rapidly. This, however, requires an engineer to understand the limits and applicability of",
+    "prerequisite": "Familiarity with Multivariable Calculus, Linear Algebra, Probability, Statistics. Comfortable with basic programming.",
+    "url": "https://onlinecourses.nptel.ac.in/noc19_cs82/preview"
+  },
+  {
+    "id": "noc24-cs39",
+    "title": "Natural Language Processing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This course starts with the basics of text processing including basic pre-processing, spelling correction, language modeling, Part-of-Speech tagging, Constituency and Dependency Parsing, Lexical Semantics, distributional Semantics and topic models. Finally, the course also covers some of the interesting applications of text mining such as entity linking, relation extraction, text summarization, text classification, sentiment analysis and opinion mining.",
+    "prerequisite": "Basic knowledge of probabilities for the lectures and python for programming assignment",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs45/preview"
+  },
+  {
+    "id": "noc24-cs40",
+    "title": "Object Oriented System Development Using UML, Java And Patterns",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Object-oriented software development has become very popular. Also, UML has been accepted as the standard design language. We discuss use of UML to arrive at a design solution. Skeletal  java code generation from UML diagrams will be discussed. Design patterns are reusable solutions. These are good solutions to typical programming problems, that can be understood and applied in a specific design situation to improve the overall design and reduce design iterations.",
+    "prerequisite": " Programming Using Java, Software Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs40/preview"
+  },
+  {
+    "id": "noc24-cs41",
+    "title": "Optimisation for Machine Learning: Theory and Implementation (Hindi)",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIITD",
+    "duration": "8 Weeks",
+    "description": "Optimisation is the workhorse of machine learning. Knowing optimisation is a key prerequisite in understanding theory and practise of machine learning. In this course, we will discuss the foundations required for solving optimization problems in the context of machine learning through various case-studies/running-examples. We will start with covering the basics of linear algebra and calculus required for learning optimization theory. We will learn both the theory and implement optimization algorithms like stochastic gradient descent and its var",
+    "prerequisite": " Linear Algebra, Calculus, Basic Programming",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs64/preview"
+  },
+  {
+    "id": "noc24-cs42",
+    "title": "Problem Solving Through Programming In C",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This course is aimed at enabling the students to Formulate simple algorithms for arithmetic and logical problems Translate the algorithms to programs (in C language) Test and execute the programs and  correct syntax and logical errors Implement conditional branching, iteration and recursion Decompose a problem into functions and synthesize a complete program using divide and conquer approach Use arrays, pointers and structures to formulate algorithms and programs Apply programming to solve matrix addition and multiplication problems and searchi",
+    "prerequisite": "BE/BTech  in all disciplines BCA/MCA/M. Sc",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs53/preview"
+  },
+  {
+    "id": "noc24-cs43",
+    "title": "Programming In Java",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "With the growth of Information and Communication Technology, there is a need to develop large and complex software. Further, those software should be platform independent, Internet enabled, easy to modify, secure, and robust. To meet this requirement object-oriented paradigm has been developed and based on this paradigm the Java programming language emerges as the best programming environment. Now, Java programming language is being used for mobile programming, Internet programming, and many other applications compatible to distributed systems.",
+    "prerequisite": " This course requires that the students are familiar with programming language such as C/C++ and data structures, algorithms.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs47/preview"
+  },
+  {
+    "id": "noc24-cs44",
+    "title": "Programming in Modern C++",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "There has been a continual debate on which programming language/s to learn, to use. As the latest TIOBE Programming Community Index for August 2021 indicates – C (13%), Python (12%), C++ (7%), Java (10%), and C#(5%) together control nearly half the programming activities worldwide. Further, C Programming Language Family (C, C++, C#, Objective C etc.) dominate more than 25% of activities. Hence, learning C++ is important as one learns about the entire family, about Object-Oriented Programming and gets a solid foundation to also migrate to Java a",
+    "prerequisite": "Programming & Data Structure (mandatory), Programming in C (optional). Design and Analysis of Algorithms (optional).",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs43/preview"
+  },
+  {
+    "id": "noc24-cs45",
+    "title": "Programming, Data Structures And Algorithms Using Python",
+    "discipline": "Computer Science and Engineering",
+    "institute": "CMI",
+    "duration": "8 Weeks",
+    "description": "This course is an introduction to programming and problem solving in Python.  It does not assume any prior knowledge of programming.  Using some motivating examples, the course quickly builds up basic concepts such as conditionals, loops, functions, lists, strings and tuples.  It goes on to cover searching and sorting algorithms, dynamic programming and backtracking, as well as topics such as exception handling and using files.  As far as data structures are concerned, the course covers Python dictionaries as well as classes and objects for def",
+    "prerequisite": " School level mathematics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs26/preview"
+  },
+  {
+    "id": "noc24-cs46",
+    "title": "Selected Topics in Algorithms",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Every application area of computer science and engineering demands efficient design of algorithms. Indeed an efficient algorithm for a problem may take much less time even on a old computer than an inefficient algorithm for the same problem running on the fastest computer on the earth. In basic data structure and algorithm course, we learn elementary techniques like greedy algorithms, divide and conquer, dynamic programming, etc. In this course, we will learn more advanced algorithm design techniques.",
+    "prerequisite": " Knowledge of basic algorithms",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs46/preview"
+  },
+  {
+    "id": "noc24-cs47",
+    "title": "Software Testing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITKGP",
+    "duration": "4 Weeks",
+    "description": "Over the years program several testing techniques have developed and tools have become available. Also, testing has been acknowledged as the primary technique for ensuring software reliability. The course would provide a brief introduction to test process and techniques available for black box and white box test case design. Integration, system and regression testing would also be discussed. A few of the test tools would be discussed and the participants would be encouraged to use.",
+    "prerequisite": " Basic Knowledge of Programming",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs38/preview"
+  },
+  {
+    "id": "noc24-cs48",
+    "title": "Systems and Usable Security",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Indore",
+    "duration": "4 Weeks",
+    "description": "This course will give an understanding of the principles of systems security from application viewpoint. Student will obtain hands-on experience on security threats and counter-measures.  Goal is to study various types of threats, operating systems security, advanced topics on network security, web security and usable security. After the completion of the course, the student will have  understanding of practical aspects of security and will be able to analyze and design the secure systems. PRE-REQUISITE :Computer Networks, Operating Systems, Di",
+    "prerequisite": ":Computer Networks, Operating Systems, Discrete Mathematics",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs36/preview"
+  },
+  {
+    "id": "noc24-cs50",
+    "title": "User-centric Computing For Human-Computer Interaction",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Human-computer interaction is an emerging field of study at present, due to the proliferation of large number of consumer electronic products. The key issue in this field is to make the products usable to lay-persons. In order to do that, we need to take care of the (creative) design aspects (the look-and-feel of the interface) and also the system design aspect (both software and hardware). The field is interdisciplinary with inputs required from various other fields. However, the computer science and engineering plays the central role in the d",
+    "prerequisite": "Basic subjects of Computer Science and Engineering/IT",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs45/preview"
+  },
+  {
+    "id": "noc24-cs51",
+    "title": "Introduction to Machine Learning",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "With the increased availability of data from varied sources there has been increasing attention paid to the various data driven disciplines such as analytics and machine learning. In this course we intend to introduce some of the basic concepts of machine learning from a mathematically well motivated perspective. We will cover the different learning paradigms and some of the more popular algorithms and architectures used in each of these paradigms.",
+    "prerequisite": "We will assume that the students know programming for some of the assignments.If the students have done introductory courses on probability theory and linear algebra it would be helpful. We will review some of the basic topics in the first two weeks ",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_cs18/preview"
+  },
+  {
+    "id": "noc24-cs52",
+    "title": "Reinforcement Learning",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "Reinforcement learning is a paradigm that aims to model the trial-and-error learning process that is needed in many problem situations where explicit instructive signals are not available. It has roots in operations research, behavioral psychology and AI. The goal of the course is to introduce the basic mathematical foundations of reinforcement learning, as well as highlight some of the recent directions of research.",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc19_cs55/preview"
+  },
+  {
+    "id": "noc24-cs53",
+    "title": "Data Science for Engineers",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "8 Weeks",
+    "description": "Learning Objectives : Introduce R as a programming language Introduce the mathematical foundations required for data science Introduce the first level data science algorithms Introduce a data analytics problem solving framework Introduce a practical capstone case study Learning Outcomes: Describe a flow process for data science problems (Remembering) Classify data science problems into standard typology (Comprehension) Develop R codes for data science solutions (Application) Correlate results to the solution approach followed (Analysis) Assess ",
+    "prerequisite": "10 hrs of pre-course material will be provided, learners need to practise this to be ready to take the course. ",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs72/preview"
+  },
+  {
+    "id": "noc24-cs54",
+    "title": "Python for Data Science",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "4 Weeks",
+    "description": "The course aims at equipping participants to be able to use python programming for solving data science problems.",
+    "prerequisite": "Knowledge of basic data science algorithms",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs78/preview"
+  },
+  {
+    "id": "noc24-cs56",
+    "title": "Social Networks",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Ropar",
+    "duration": "12 Weeks",
+    "description": "Databases are the backbone of almost all the digital services and e-governance solutions. Modern businesses and financial systems heavily depend on databases systems and transaction processing for their successful operation. This course introduces the students to the various theoretical and practical principles involved in the design and use of  databases systems with the help of  database management systems (DBMS) and the SQL Standard",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_cs30/preview"
+  },
+  {
+    "id": "noc24-cs57",
+    "title": "The Joy of Computing using Python",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Ropar",
+    "duration": "12 Weeks",
+    "description": "The world has become highly interconnected and hence more complex than ever before. We are surrounded by a multitude of networks in our daily life, for example, friendship networks, online social networks, world wide web, road networks etc. All these networks are today available online in the form of graphs which hold a whole lot of hidden information. They encompass surprising secrets which have been time and again revealed with the help of tools like graph theory, sociology, game theory etc. The study of these graphs and revelation of their p",
+    "prerequisite": "10th standard/high school",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs32/preview"
+  },
+  {
+    "id": "noc24-cs59",
+    "title": "Deep Learning - IIT Ropar",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IIT Ropar",
+    "duration": "12 Weeks",
+    "description": "A fun filled whirlwind tour of 30 hrs, covering everything you need to know to fall in love with the most sought after skill of the 21st century. The course brings programming to your desk with anecdotes, analogies and illustrious examples. Turning abstractions to insights and engineering to art, the course focuses primarily to inspire the learner's mind to think logically and arrive at a solution programmatically. As part of the course, you will be learning how to practice and culture the art of programming with Python as a language. At the en",
+    "prerequisite": " Working knowledge of Linear Algebra, Probability Theory. It would be beneficial if the participants have done a course on Machine Learning.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs76/preview"
+  },
+  {
+    "id": "noc24-cs60",
+    "title": "Machine Learning, ML",
+    "discipline": "Computer Science and Engineering",
+    "institute": "KTH Royal Institute of Technology, Sweden",
+    "duration": "8 Weeks",
+    "description": "The course will be an introduction to Discrete Mathematics which comprises of the essentials for a computer science student to go ahead and study any other topics in  the subject. The emphasis will be on problem solving as well as proofs. We will be providing motivational illustrations and applications through out the course. The course doesn't assume any pre-requisites except for high school level arithmetic and algebra.",
+    "prerequisite": "Relevant applied math and statistics, core computer sciencel",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs49/preview"
+  },
+  {
+    "id": "noc24-cs62",
+    "title": "Probability for Computer Science",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "Deep Learning has received a lot of attention over the past few years and has been employed successfully by companies like Google, Microsoft, IBM, Facebook, Twitter etc. to solve a wide range of problems in Computer Vision and Natural Language Processing. In this course we will learn about the building blocks used in these Deep Learning based solutions. Specifically, we will learn about feedforward neural networks, convolutional neural networks, recurrent neural networks and attention mechanisms. We will also look at various optimization algori",
+    "prerequisite": "",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_cs104/preview"
+  },
+  {
+    "id": "noc24-cs63",
+    "title": "Parallel Computer Architecture",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "With the emergence of application domains requiring large data processing as well as faster compute performance, parallel computing has become a critical component. This involves the use of multi-core processors as well as tightly integrated clusters of PCs and workstations. The most exciting development is the convergence of traditionally disparate approaches of shared memory, message passing, and data driven computing onto the same platform. As the parallel applications communicate with each other using shared data; it is important to correct",
+    "prerequisite": " Final year undergraduate as well as post-graduate students in the disciplines of CSE, IT, CS, ECE, EEE, etc. Can benefit from this course. A basic knowledge in Computer Organisation is sufficient to take this subject.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs63/preview"
+  },
+  {
+    "id": "noc24-cs64",
+    "title": "Games and Information",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITB",
+    "duration": "12 weeks",
+    "description": "This is an advanced course in game theory, with a particular emphasis on the role of information. We begin with static games and cover the basic notations there. About 65% of the course concerns dynamic games where we introduce information structures, role of information structure on equilibria, Bayesian games and information asymmetry. We then cover the basic concepts of mechanism design. We do a quick overview of signaling and screening, and introduce information design. As a final topic we do a study of pre-play communication – achievable pa",
+    "prerequisite": " Graduate students in engineering and economics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs64/preview"
+  },
+  {
+    "id": "noc24-cs65",
+    "title": "Business Intelligence & Analytics",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course equips students with necessary knowledge and skills on the thought process, modelling approaches and tools required to use data from the enterprise databases and other sources for business decisions. In turn, the course prepares participants for a career in data science, business analytics and market research. This course will introduce the context of data mining, and cover important modelling techniques such as regression, decision trees, clustering, ANN and text mining.",
+    "prerequisite": "A core course on Business statistics desirable",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs65/preview"
+  },
+  {
+    "id": "noc24-cs66",
+    "title": "Edge Computing",
+    "discipline": "Computer Science and Engineering",
+    "institute": "IITP",
+    "duration": "8 Weeks",
+    "description": "This course we will cover fundamentals of Edge computing and its applications in low latency and critical real-time computing scenarios. The course brings in theory of Edge computing, focusing on it as a complementary approach that addresses some of the limitations of cloud computing. The course will cover applications where edge computing is a necessity, such as real-time applications that require low latency and high bandwidth. For example, autonomous vehicles require real-time processing of data from sensors, which cannot be done in a centra",
+    "prerequisite": " Networking",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_cs66/preview"
+  },
+  {
+    "id": "noc24-ce01",
+    "title": "Advanced Foundation Engineering",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course will focus on the design of shallow foundation on sloping ground, layered soil and under inclined & eccentric loading conditions. Piles under uplift and lateral loading conditions will also be discussed. In the undergraduate core course on Foundation Engineering, these topics are either not covered or discussed in simplified form. In the proposed course, these advanced topics will be discussed in detail. This course is useful for both UG and PG student. The course is also suitable for students who are preparing for competitive examin",
+    "prerequisite": "Nil",
+    "url": "https://archive.nptel.ac.in/noc/courses/noc21/SEM1/noc21-ce33/"
+  },
+  {
+    "id": "noc24-ce02",
+    "title": "Advanced Soil Mechanics",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "This course intends to bridge the basic soil mechanics concepts with the advanced topics related to stresses and soil strength. In the process, it will help to reinforce the understanding gained during the undergraduate learning and would help to alleviate any misconceptions related to the stress-strain response and strength behaviour of soils. Not all the concepts explained in this course are advanced, but attempts to add clarity to the knowledge gained at undergraduate level. This course is ideal for the orientation of geotechnical engineerin",
+    "prerequisite": "Nil",
+    "url": "https://nptel.ac.in/courses/105103207"
+  },
+  {
+    "id": "noc24-ce03",
+    "title": "Air pollution and Control",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The objective of the course is to impart the knowledge and understanding of causes and effects of air pollution and their controlling mechanisms. The course will provide a deeper understanding of air pollutants, pollution inventory and modelling. The course also imparts knowledge on the impacts of air pollution on different aspects such as policy, human health and various contemporary technological innovation for betterment of air quality.",
+    "prerequisite": "Nil",
+    "url": "https://archive.nptel.ac.in/noc/courses/noc22/SEM1/noc22-ce22/"
+  },
+  {
+    "id": "noc24-ce04",
+    "title": "Applied Environmental Microbiology",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "This course prepares the student to address pressing environmental challenges by developing a fundamental understanding of the microbial communities and processes in natural and built environments. It lays and builds upon the foundation of basic microbiology, microbial energetics, and diversity, to applying tools provided by microbiology ranging from traditional to state of art for addressing relevant environmental concerns. It provides an indepth exploration of the diverse role microbes and microbial communities and includes topics such as: ce",
+    "prerequisite": "Nil",
+    "url": "https://archive.nptel.ac.in/noc/courses/noc21/SEM1/noc21-ce07/"
+  },
+  {
+    "id": "noc24-ce05",
+    "title": "Applied Seismology for Engineers",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "The present course gives an overview followed by in-depth knowledge about various topics which are required particularly for seismic analysis whether related to determination of seismic loading, understanding dominating fault mechanism in the region, understanding slope stability problems, development of synthetic ground motions, seismic hazard analysis, source characterization, ground response analysis etc. It will help reader to gain deep understanding about above subjects and how these are applied to real life problems. Theoretical explanati",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce05/preview"
+  },
+  {
+    "id": "noc24-ce07",
+    "title": "Construction Methods And Equipment Management",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "The key element for successful execution of any project is planning, which also includes planning of equipment. Due to recent advancement in mechanization, different models of machines are available in the market for a particular job. Hence the task of selection of right machine for the right job is quite challenging for project planner. Therefore, understanding of machine capabilities is very important for optimal selection and utilization of equipment. This course provides comprehensive information on guidelines for selection of equipment, es",
+    "prerequisite": "Engineering would be minimum qualification to understand the basics related to this course.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce07/preview"
+  },
+  {
+    "id": "noc24-ce08",
+    "title": "Development and Applications of Special Concretes",
+    "discipline": "Civil Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "Concrete is no longer simply a mixture of water, cement, sand and coarse aggregate – the advent of chemical admixtures and better understanding of the hydration of cement, and other issues relating to properties of concrete, has made it possible to use several other ingredients and have led to the development of several special concretes and construction methods and use concrete in diverse environments. Building on the fundamental principles of normal concrete, this course explains how some commonly used special concretes have been developed an",
+    "prerequisite": "The Course Will Assume Basic Understanding Of Concrete Materials And Construction Processes, Including Expected Performance, Quality Control, Etc.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce09/preview"
+  },
+  {
+    "id": "noc24-ce09",
+    "title": "Earthquake Resistant Design of Foundations",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The course covers various types of foundations, required soil investigations, soil parameters, and codes of practice. Design considerations for seismic resistant design of foundations. The course will focus on techniques of design of foundations so that it does not fail during earthquakes. This will cover both shallow and deep foundations. Major focus will be on the design of deep foundations for lateral loads.",
+    "prerequisite": "Soil Mechanics and Foundation Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce09/preview"
+  },
+  {
+    "id": "noc24-ce11",
+    "title": "Environmental Remediation of Contaminated Sites",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The course details the usual remediation techniques practiced worldwide and provide an understanding of the relevant theoretical concepts. The current course will enable a student to Develop understanding of integrated approaches to remediating contaminated sites and Develop the ability to screen, choose and design appropriate technologies for remediation.",
+    "prerequisite": "Entry level chemistry course, and understanding of chemical, physical and biological processes on Environmental Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ce36/preview"
+  },
+  {
+    "id": "noc24-ce12",
+    "title": "Expansive Soil",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Expansive soil occurs in many parts of the world particularly in arid and semi-arid regions. These soils undergo volumetric changes upon wetting and drying, thereby causing ground heave and settlement problems. Cracking associated with the shrinkage is of concern for embankment and earth-dam stability. This leads to considerable construction defects if not adequately taken care of. Such soils are considered natural hazards and pose challenges to civil engineers.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce21/preview"
+  },
+  {
+    "id": "noc24-ce13",
+    "title": "Finite Element Method",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This is an introductory level course on Finite Element Method. After attending the course, the students will be able to comprehend FEM as a numerical technique to solve partial differential equations representing various physical phenomena in structural engineering. The proposed course also provides a hands-on training on translating FEM formulation into computational code in MATLAB.",
+    "prerequisite": "Solid Mechanics/Numerical methods in Engineering.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me43/preview"
+  },
+  {
+    "id": "noc24-ce14",
+    "title": "Geographic Information Systems",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The proposed course provides detailed understanding about Geographic Information Systems and their applications in Civil Engineering and Earth Sciences. All aspects starting from data input to modelling would be discussed in this course. Further, in the proposed course various datasets including DEMs, their source, generation techniques, derivatives, errors and limitations would be discussed extensively. Surface Hydrologic Modelling using DEMs, modelling derivatives and their applications would also be discussed.",
+    "prerequisite": "Current students of engineering, post graduate science students and PhD students should have basic knowledge of computers",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce26/preview"
+  },
+  {
+    "id": "noc24-ce15",
+    "title": "Geology and Soil Mechanics",
+    "discipline": "Civil Engineering",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "The course prepares the student to be able to make effective learning of basic soil mechanics. The course should have the pre-requisite of mechanics of solids/strength of materials course.",
+    "prerequisite": "Mechanics of solids/Strength of materials",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce02/preview"
+  },
+  {
+    "id": "noc24-ce16",
+    "title": "Geomorphology",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "Geomorphology deals with the activities of different natural surface and subsurface agents engaged in removal of old and formation of new landforms on the earth’s surface. In modern days geomorphic evaluation of each and every area is utmost important for sustainable development. It helps in many fields such as ground water exploration and storage, flood control, waste disposal, smart city development, oil and natural gas exploration, infrastructure development etc.",
+    "prerequisite": "Engineering Geology (preferable)Engineering Mechanics (Compulsory)",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ce29/preview"
+  },
+  {
+    "id": "noc24-ce17",
+    "title": "Geosynthetics And Reinforced Soil Structures",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course will dealt with the geosynthetics as construction materials in civil engineering projects. It will introduce the concept of geosynthetics, their manufacture and their behavior and their applications in different civil engineering designs. The support for the course will be in the form of pre-recorded videos, power point slides and supplementary reading materials given every week.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ce06/preview"
+  },
+  {
+    "id": "noc24-ce21",
+    "title": "Introduction to Accounting and Finance for Civil Engineers",
+    "discipline": "Civil Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "With the changing paradigm of the construction industry, and introduction of different contracting models, with the government trying to play more of a regulatory role and withdrawing from financial commitments, and the space being occupied by financial institutions, civil engineers in the modern day are expected to be familiar with basic accounting and finance. This aspect is almost completely missing from any curriculum in civil engineering and hence there is a need to make relevant material available in an online course, which students and p",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce32/preview"
+  },
+  {
+    "id": "noc24-ce22",
+    "title": "Maintenance and Repair of Concrete Structures",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course will help students learn how to identify various deterioration mechanisms or damage mechanisms in concrete structures (say, deterioration of metallic reinforcement and cementitious materials). The course will discuss both the scientific aspects and its use while practicing repair works at site. Use of various non-destructive, partially-destructive tools to assess the condition of the structure will be discussed. Also, tips on selecting measurable parameters that are useful in deciding the further repair and maintenance practices wil",
+    "prerequisite": "Completed 3rd year of a Bachelor program in civil engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce12/preview"
+  },
+  {
+    "id": "noc24-ce23",
+    "title": "Mechanical Characterization of Bituminous Materials",
+    "discipline": "Civil Engineering",
+    "institute": "PSG Tech., Coimbatore MBCET, Trivandrum SRM IST, Kattankulathur IIT Madras",
+    "duration": "12 Weeks",
+    "description": "Bituminous materials exhibit a complex mechanical response, and an understanding of the same is paramount in pavement engineering. This course will include introductory elementary linear viscoelasticity, and use that framework to introduce different grading system for bitumen. Use of polymers to enhance the rhelogical properties will be discussed along with the various test methods to quantify such improvement. Mechanical characterization of bituminous mixtures for modulus determination for design purposes as well as quantification for laborato",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce23/preview"
+  },
+  {
+    "id": "noc24-ce24",
+    "title": "Microwave Remote Sensing in Hydrology",
+    "discipline": "Civil Engineering",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "This course shall explain the fundamentals of microwave remote sensing in passive and active domain with application in  civil engineering (hydrology, meteorology). An emphasis is made to teach microwave image processing through open  source programming languages like python. Further objective of this course is to make a student capable to interpreting and  deciphering the microwave data for complex scientific and policy problems in the water arena, all of which require high  quality training.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce23/preview"
+  },
+  {
+    "id": "noc24-ce25",
+    "title": "Plastic Waste Management",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "This course will focus on:1. Introduction of Plastic pollution as a global problem today.2. What is Plastic Waste? The Magnitude of the problem on global scale and in Indian context. Plastic in Ocean and impact on sea life and economy.3. What is the nature and complexity of this problem and what could be the best way to manage the plastic waste and how to mitigate the risk from plastic waste.4. Plastic Waste Management Rules 2016, Recent Plastic Bans and the use of Extended Producer Responsibilities (EPR) concepts in managing Plastic waste in I",
+    "prerequisite": "Basic Environmental Science, Basic Differential Equations, Basic Chemistry",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce13/preview"
+  },
+  {
+    "id": "noc24-ce26",
+    "title": "Remote Sensing Essentials",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The proposed course provides basic understanding about satellite based Remote Sensing and Digital Image Processing technologies. Presently, remote sensing datasets available from various earth orbiting satellites are being used extensively in various domains including in civil engineering, water resources, earth sciences, transportation engineering, navigation etc. Google Earth has further made access to high spatial resolution remote sensing data available to non-experts with great ease. Knowledge of Digital Image Processing of satellite data ",
+    "prerequisite": "Remote Sensing / Geoinformatics companies, e.g NIIT, ESRI India, Leica Geoinformatics, MapmyIndia etc",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce29/preview"
+  },
+  {
+    "id": "noc24-ce27",
+    "title": "Retrofitting and Rehabilitation of Civil Infrastructure",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The major objective of this course is to give an in-depth understanding of the various methods of repair, retrofitting and rehabilitation techniques for masonry and concrete structures. The causes and types of deterioration, the evaluation of the existing condition of infrastructure, the materials for repair and retrofitting, the maintenance and strengthening techniques is covered in detail in this course. Seismic retrofitting and design of retrofitted structural components using recent techniques and materials have been included in the course.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce20/preview"
+  },
+  {
+    "id": "noc24-ce28",
+    "title": "Rock Engineering",
+    "discipline": "Civil Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "This course is the basic course in the area of Rock Mechanics. This will provide the knowledge of overall behavior of rocks and rock masses. This course will enable the students to acquire basics of analysis and design of tunnels, caverns, slopes, and foundations on rocks.",
+    "prerequisite": "Soil Mechanics-1, Soil Mechanics-2",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce28/preview"
+  },
+  {
+    "id": "noc24-ce29",
+    "title": "Soil Dynamics",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course is designed for the UG students interested in advanced level of Geotechnical Engineering, PG students and research scholars of Geotechnical Engineering and other relevant specialization of Civil Engineering. The practicing engineers in the field of Civil and Geotechnical Engineering may also be benefited from this course. The objective of the course is to understand the fundamentals of vibrations, response of soils and foundations under dynamic loadings and design criterion of foundations subjected machine vibration and earthquake lo",
+    "prerequisite": "Geotechnical Engineering-I/Soil Mechanics, Geotechnical Engineering -II/Foundation Engineering at UG level",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce41/preview"
+  },
+  {
+    "id": "noc24-ce30",
+    "title": "Soil Structure Interaction",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course will focus on the different soil-structure interaction models for shallow foundation under various loading conditions and subgrade characteristics. Piles under uplift and lateral loading conditions will also be discussed. In the undergraduate core course on Foundation Engineering, these topics are either not covered or discussed in simplified form. Beams and plates on elastic foundation problems & different foundation models and their solution with the help of Finite Difference Method (FDM) will be discussed. The application of found",
+    "prerequisite": "Soil Mechanics and Foundation Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce22/preview"
+  },
+  {
+    "id": "noc24-ce33",
+    "title": "Structural Vibration",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "The course introduces the basic concept of dynamic equilibrium, Degrees of freedom, and equation of motion at the beginning. Then the learners are introduced to the free vibration of the SDOF system with Viscous and Coulomb damping followed by forced vibration of the SDOF system. Then the half-power bandwidth technique, energy dissipation due to damping, and equivalent / rate-independent damping are introduced. It is followed by different methods of the numerical response evaluation, the response spectrum, and the preparation of the elastic des",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce33/preview"
+  },
+  {
+    "id": "noc24-ce35",
+    "title": "Traffic Engineering",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Traffic Congestion has become a serious ‘urban illness’ in the modern era of urbanization especially in emerging countries such as India. This results in an increase in travel time, rise in traffic accidents, rise in fuel depletion, excessive exhaust emissions, etc. which can retard the growth of any city and its sustainable development. This NPTEL course will help in capacity building amongst master students, policy makers, practitioners, etc. to understand traffic engineer’s role in all relevant dimensions, and develop strategies, programs an",
+    "prerequisite": "Any B.E/BTech in Civil Engineering/ Transportation Engineering/ Construction Engineering or equivalent at U.G level.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce35/preview"
+  },
+  {
+    "id": "noc24-ce36",
+    "title": "Unsaturated Soil Mechanics",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "The knowledge of soil behavior is very important in the Geotechnical engineering practice. The soil behavior in saturated state is widely taught in the undergraduate and graduate programs, all over. The existence of air-phase in natural soils prompts the soil to behave differently from the saturated soils. The present course would provide the fundamental principles, mechanisms, and behavior of partly saturated soils.",
+    "prerequisite": "Knowledge of basic “soil mechanics”",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce48/preview"
+  },
+  {
+    "id": "noc24-ce37",
+    "title": "Urban Transportation Systems Planning",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Urban transportation is an important issue in developing countries such as India. Transportation impacts various aspects such as mobility, health of residents, economic and energy aspects in an Urban area. This course covers the challenging need for effective and efficient planning of urban transport addressing the growing travel demand in a sustainable and affordable way. This NPTEL course will help in capacity building amongst master students, policy makers, practitioners, etc. for urban transport planning and decision making, to understand u",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ce35/preview"
+  },
+  {
+    "id": "noc24-ce38",
+    "title": "Vibration of Continuous Systems",
+    "discipline": "Civil Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "All structures or mechanical systems are in fact, continuous having their physical parameters, external forces and their response are distributed in space. The dynamic behavior of the structures or machine components, can only be truly reflected in the continuous systems. The slenderness of the structures necessitates the adoption of continuous modelling. The exact solutions that can be obtained from continuous models provide true physical behavior in addition to yielding various bench mark results for testing the efficacy of many numerical met",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce21/preview"
+  },
+  {
+    "id": "noc24-ce40",
+    "title": "Water Supply Engineering",
+    "discipline": "Civil Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Water supply schemes are a basic necessity of every town/city. With growing concerns over managing urban water demands along with resource sustainability, concept of efficient and smart urban water supply systems is progressively getting more pertinent. Incorporating sustainable design and operation principles based on innovative water technologies such as cost-effective treatment solutions, automated supervisory controls, leakage detection and control etc. into water supply systems improves water supply from sustainable perspectives. This cour",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce23/preview"
+  },
+  {
+    "id": "noc24-ce42",
+    "title": "Analysis and Design of Bituminous Pavements",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "More than 90% of the highway system in India are constructed with bituminous materials. This course will introduce the fundamentals of stress analysis procedures for bituminous pavements. Analysis of traffic, material characterization for design and distress, and aspects of reliability related to bituminous pavement design will be discussed thereafter. The students of this course will also get hands-on training on the use of IRC37 and understand the boundaries within which such design guidelines should be used",
+    "prerequisite": "This is a self-contained course for students and practitioners alike, and hence, no prerequisite is required. For those who do not have an undergraduate degree in civil engineering, familiarity with the construction of bituminous pavements will be he",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce49/preview"
+  },
+  {
+    "id": "noc24-ce43",
+    "title": "Introduction to Lean Construction (Module 1 - Lean Basics)",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "4 Weeks",
+    "description": "Lean Construction Management is a radical shift from traditional construction management. It is an adaptation of Lean Manufacturing principles to the construction realm. Lean approach seeks to improve project delivery by minimizing waste and maximizing Value to the customer. This course has been designed to impart the key concepts, tools, and practices to Civil Engineering Senior Level under-graduates, post-graduate students, and Faculty as well as practicing engineers, architects, and managers/ consultants.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce49/preview"
+  },
+  {
+    "id": "noc24-ce44",
+    "title": "Modern Construction Materials",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The aim of the course is to provide the scientific basis for the understanding and development of construction materials. It serves as a foundation course for post-graduate students interested in careers involving research, teaching and/or construction engineering, as well as marketing, decision making, innovation and specification related to construction materials. It can also be a capstone course for undergraduates finishing their studies in civil engineering and architecture.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce05/preview"
+  },
+  {
+    "id": "noc24-ce46",
+    "title": "Concrete Technology",
+    "discipline": "Civil Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "The course on “Concrete Technology” focuses on concrete making materials including supplementary cementitious materials. Concrete production process also forms a part of the discussion. Going through the course one would develop first-hand knowledge on concrete production process and properties and uses of concrete as a modern material of construction. The courses will enable one to make appropriate decision regarding ingredient selection and use of concrete.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce50/preview"
+  },
+  {
+    "id": "noc24-ce47",
+    "title": "Energy Efficiency, Acoustics and Daylighting in Building",
+    "discipline": "Civil Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "The objectives of this course is to expose the students to the concepts functional design of building for thermal aspects and energy efficiency; especially in tropical climates i.e. in Indian context. Further objective is to make the student capable of performing fenestration design for natural ventilation and daylighting & design of space for externaland internal noise control.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce47/preview"
+  },
+  {
+    "id": "noc24-ce48",
+    "title": "Remote Sensing and GIS for rural development",
+    "discipline": "Earth Sciences",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "India, being an agrarian nation, has a vast majority population living in rural areas. Development of rural areas is a difficult task due to the complex heterogeneity of the rural landscape and social economic and ecological conditions, and observation data is limited due to cost and logistical factors. Geospatial technologies including Remote Sensing and GIS (RS & GIS) have tremendous potential in the development of rural areas due to its ability in handling large amounts of data, conducting spatial analysis over large areas, and decision-maki",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ce52/preview"
+  },
+  {
+    "id": "noc24-ce51",
+    "title": "Natural Hazards",
+    "discipline": "Earth Sciences",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "The course introduces students to natural disasters and their phenomenon, ground deformations, land-level changes, event recurrence intervals, associated environmental and depositional changes, sedimentation patterns, and all the related hazards. Some of the well-known natural disasters are earthquakes, landslides, floods, tsunamis, volcanic eruptions, storms, and cyclones etc. which cause different types of natural hazards in the associated environment and landscape. This course will emphasize their mechanism, origin, and impacts in the associ",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ce07/preview"
+  },
+  {
+    "id": "noc24-ce52",
+    "title": "Laboratory Practices in Earth Sciences: Landscape Mapping",
+    "discipline": "Civil Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "Laboratory Practices in Earth Sciences: Landscape Mapping is a thorough and practical course that explores remote sensing, fieldwork, and laboratory studies to better understand the surface and subsurface geological and geomorphological structures. The fundamental principles, techniques, and methodologies that have been used to investigate, analyze, and map landscapes across the world will be covered in this course. It is a comprehensive educational experience that incorporates theoretical ideas, real-world applications, and ethical problems. T",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce52/preview"
+  },
+  {
+    "id": "noc24-ce53",
+    "title": "Industrial Wastewater Treatment",
+    "discipline": "Civil Engineering",
+    "institute": "IIT-ISM Dhanbad",
+    "duration": "12 weeks",
+    "description": "Industrial wastewater treatment is a very unique course and it deals with the advanced processes for treatment of Industrial Wastewater. These processes are not covered during the conventional wastewater treatment courses. The course encompasses processes like removal of heavy metals, adsorption, ion exchange, membrane process, and advanced oxidation processes. The course covers detailed description on the wastewater treatment of industries like Distillery, Dairy, Tannery, Pulp and Paper, Textile and Dye, Fertilizer, Refinery, Pharmaceutical, I",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce53/preview"
+  },
+  {
+    "id": "noc24-ce54",
+    "title": "Advanced Topics in Science and Technology of Concrete",
+    "discipline": "Civil Engineering",
+    "institute": "IITM",
+    "duration": "4 Weeks",
+    "description": "This edition of the Advanced Topics course focuses on the use of recycled concrete as aggregate in new concrete construction. The course material was developed as part of the SPARC collaborative project between IIT Madras, University of Cape Town and University of the Witwatersrand in South Africa. The lectures in this course give a full background of the collection, processing and properties of recycled concrete aggregates. The impact of their use in terms of concrete performance and the effect on long term durability is also explored. Finally",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ce54/preview"
+  },
+  {
+    "id": "noc24-ch01",
+    "title": "Electrochemical Technology in Pollution Control",
+    "discipline": "Chemical Engineering",
+    "institute": "IISc",
+    "duration": "8 Weeks",
+    "description": "Electroanalytical techniques have assumed great importance in pollution monitoring of chemical species in the last 20 years. Electrochemical sensors including ion selective electrodes are employed to detect the pollution levels in all public spaces. They also find extensive applications in medical diagnosis, industrial process monitoring, communication industry etc. Fuel cells and battery technology are the energy sources of the future. Industrial wastes generated from electrochemical processes are one of the most hazardous wastes which need to",
+    "prerequisite": "10 +2 + 3 years of BE / BSCBasic knowledge of differential calculus and integration",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ch02/preview"
+  },
+  {
+    "id": "noc24-ch02",
+    "title": "Advanced Thermodynamics and Molecular Simulations",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "This course aims to impart knowledge of advanced thermodynamics concepts and molecular simulation methods. Unlike the standard undergraduate chemical engineering thermodynamics, we will follow a rather physics-based treatment of thermodynamics based on statistical mechanics concepts and molecular theories. The thermodynamics part to be covered in first half of the course would be used in the discussion of molecular simulations to be covered in the second half of the course",
+    "prerequisite": "Basic UG course in thermodynamics or statistical mechanics",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch30/preview"
+  },
+  {
+    "id": "noc24-ch03",
+    "title": "Applied Time-Series Analysis",
+    "discipline": "Chemical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The course introduces the concepts and methods of time-series analysis. Specifically, the topics include (i) stationarity and ergodicity (ii) auto-, cross- and partial-correlation functions (iii) linear random processes - definitions (iv) auto-regressive, moving average, ARIMA and seasonal ARIMA models (v) spectral (Fourier) analysis and periodicity detection and (vi) parameter estimation concepts and methods. Practical implementations in R are illustrated at each stage of the course.",
+    "prerequisite": "Basics of probability and statistics; View MOOC videos on \"Intro to Statistical Hypothesis Testing\"",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ch28/preview"
+  },
+  {
+    "id": "noc24-ch04",
+    "title": "Aspen Plus® Simulation Software - A Basic Course For Beginners",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "Aspen Plus is a process modeling tool used for process monitoring, optimization and conceptual design, especially by chemical process industries. This is a simple course on Aspen Plus Simulation engine that will teach one how to model the most common unit operations of a chemical plant. Basic unit operations such as Pump, Reactor, Valve, Heater, Distillation Column etc. will be demonstrated which would be helpful for students, teachers, engineers and researchers in the area of R&D and Plant Design/Operation. The course is didactic, with a lot o",
+    "prerequisite": " People having Chemical Engineering background who have passed the following courses: Mass Transfer, Heat Transfer, Chemical Reaction Engineering, Fluid Mechanics, Chemical Engineering Thermodynamics, and Mechanical Operations.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ch44/preview"
+  },
+  {
+    "id": "noc24-ch06",
+    "title": "Biological process design for wastewater treatment",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "This course is for Engineers and Scientists working towards the control of pollution from municipal and industrial wastewater. Considering the expectation of the Industries for wastewater pollution control in their premises to comply With newer and more stringent laws and acts being enforced in India and globally, wastewater treatment for effluent generated from industries has become highly challenging. This course introduces the principles of biological methods to control wastewater pollution. The course will be presented in a logical manner w",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ch17/preview"
+  },
+  {
+    "id": "noc24-ch07",
+    "title": "Biomass Conversion And Biorefinery",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "Since last two decades, researchers worldwide have drawn their attention to biomass based fuels as well as other value added products as biomass is not only renewable but also CO2 neutral. This course will provide an insight to the basics of biomass, various conversion technologies and the different types of products that can be obtained upon successful conversion. In first few lectures types biomass, their structure and composition has been discussed followed by details on various pre-treatment technologies currently adapted to produce cellulo",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch28/preview"
+  },
+  {
+    "id": "noc24-ch08",
+    "title": "Chemical Engineering Fluid Dynamics and Heat Transfer",
+    "discipline": "Chemical Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This is an introductory fluid dynamics and heat transfer course that plays significant role in the chemical engineering as well in the biological, petroleum, and environmental engineering curriculum. It covers some important aspects of fluid flow and heat transfer along their commonality in various chemical engineering processes. The content of this course can be broadly classified into two topics: (1) fluid dynamics, and (2) heat transfer. The objective of this course is to learn the fundamental principles of fluid dynamics and heat transfer a",
+    "prerequisite": "Courses in calculus and in mass and energy balances",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ch32/preview"
+  },
+  {
+    "id": "noc24-ch10",
+    "title": "Chemical Process Utilities",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "Importance of process utilities in a typical chemical process plant is enormous. Without fundamental knowledge of process utilities it is very difficult to survive in a chemical plant. As chemical process technology becomes more complex, chemical engineers will need a more detailed and fundamental understanding of different utilities. The course focuses on understanding the important technical fundamentals of chemical process utilities. The emphasis on the fundamentals will help the student to understand the concepts and apply them accordingly.",
+    "prerequisite": " Chemical Engineering Thermodynamics, Chemical Technology, Heat Transfer ",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch24/preview"
+  },
+  {
+    "id": "noc24-ch12",
+    "title": "Computational Fluid Dynamics",
+    "discipline": "Chemical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "CFD or computational fluid dynamics is a branch of continuum mechanics that deals with numerical simulation of fluid flow and heat transfer problems. The exact analytical solutions of various integral, differential or integro-differential equations, obtained from mathematical modeling of any continuum problem, are limited to only simple geometries. Thus for most situations of practical interest, analytical solutions cannot be obtained and a numerical approach should be applied. In the field of mechanics, the approach of obtaining approximate nu",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me126/preview"
+  },
+  {
+    "id": "noc24-ch14",
+    "title": "Computer Aided Applied Single Objective Optimization",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "Optimization problems are frequently encountered in almost all disciplines of science and engineering. This course will familiarize the audience with both mathematical and computational intelligence algorithms to solve combinatorial optimization problems. The course is designed so as to enable the participants to quickly use state-of-the-art tools to solve optimization problems. A unique feature of this course will be discussion of a realistic case study to thoroughly understand various aspects of optimization.",
+    "prerequisite": "Basic Mathematics",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ch19/preview"
+  },
+  {
+    "id": "noc24-ch15",
+    "title": "Environmental Quality Monitoring & Analysis",
+    "discipline": "Chemical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The course is directed at measuring, modeling and assessing the parameters of environmental quality for the purpose of environmental risk assessment. The course introduces readers to the concept of environmental fate and transport and the methods to apply them in environmental risk assessment. The course also discusses the monitoring methods in the context of environmental fate and transport.",
+    "prerequisite": "Basic Mathematics; Physics; Chemistry; Environmental Engineering; Chemical Engineering.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch33/preview"
+  },
+  {
+    "id": "noc24-ch18",
+    "title": "Membrane Technology",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "This course will provide an insight to the membrane based separations that is an integral part of the down-stream processing of various industries. The course begins with introducing the development of membranes and discussing the basics which is followed by detail discussion on membrane materials and their properties. This course then deals with various methods of membrane preparations and their characterization. How separations (transport mechanism) takes places using membranes has been covered extensively. Further, principles of various memb",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch14/preview"
+  },
+  {
+    "id": "noc24-ch20",
+    "title": "Multiphase Flows",
+    "discipline": "Chemical Engineering",
+    "institute": "IIT(BHU) Varanasi",
+    "duration": "8 Weeks",
+    "description": "Multiphase flow reactors are critically important many industries like, chemical, petroleum, petrochemicals, food, pharmaceuticals etc. The performances of these reactors largely depend on the interactions of different phases involved. In this course basic of Multiphase flow along with different flow regime map and pressure drop, and volume fraction calculation will be covered. Further, the interaction between different phases at different scales will be discussed. Modelling methods used for multiphase flow reactors will be covered. Finally, di",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ch30/preview"
+  },
+  {
+    "id": "noc24-ch21",
+    "title": "Multiphase Microfluidics",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "With the advancement in manufacturing technology in past few decades, the trend towards miniaturization has accelerated in several industries. In chemical process industries, the viability of compact heat exchangers, microreactors for process intensification is being explored because of small diffusion lengths, high interfacial area density and relatively safe operation. Most of these equipments involve multiphase flows and their design requires a fundamental understanding of heat, mass and momentum transport in multiphase flow in microchannels",
+    "prerequisite": "A basic course in Fluid Mechanics",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ch37/preview"
+  },
+  {
+    "id": "noc24-ch22",
+    "title": "Physical And Electrochemical Characterizations In Chemical Engineering",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Information on the various properties of materials are the key to unlock and analyze their suitability for various futuristic applications. The course Physical and Electrochemical Characterizations in Chemical Engineering aims to address these aspects fundamentally and practically in the field of Chemical Engineering and allied disciplines. The study span during the course includes the fundamental principles of various instrumentation techniques, which include spectroscopy, surface and electrochemical characterizations, and mechanical stability",
+    "prerequisite": "Elementary Chemistry",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch23/preview"
+  },
+  {
+    "id": "noc24-ch23",
+    "title": "Physico-chemical processes for wastewater treatment",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "This course is essential for Engineers, considering the expectation of the Industries for wastewater pollution control in their premises to comply with newer and more stringent laws and acts that are being enforced in India and globally. This course introduces the principles and physicochemical methods to control wastewater pollution. The course will be presented in a logical manner with several numerical problems and case studies so that the students may adequately understand the subject and apply the knowledge after their graduation in indust",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch25/preview"
+  },
+  {
+    "id": "noc24-ch24",
+    "title": "Polymer Reaction Engineering",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The course provides a complete overview of current and future aspects in polymer engineering. The finished polymer product properties are usually determined during the production process and hence it very essential to understand all the fundamentals and chemistry behind the polymerization process. Various terms such as reaction initiation, propagation, termination, reaction kinetics, thermal kinetics, molecular weight, and physical features such as microstructures, morphology, tensile and fractural strength etc. will be discussed in this course",
+    "prerequisite": "No prerequisite",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ch12/preview"
+  },
+  {
+    "id": "noc24-ch26",
+    "title": "Renewable Energy Engineering: Solar, Wind And Biomass Energy Systems",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 weeks",
+    "description": "In this course an attempt has been made to standardize the course material and to emphasize on the fundamental of non-conventional energy sources (solar, wind, and biomass). Harnessing the energy through these sources using efficient technologies is expected to play an important role in serving as clean energy source for mankind. Thus, processes to harness energy are steadily gaining technical and economic importance worldwide. Therefore, it is necessary for energy planners/ users to know the facts as well as limitations of these technologies. ",
+    "prerequisite": "None",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ch27/preview"
+  },
+  {
+    "id": "noc24-ch27",
+    "title": "Thermodynamics Of Fluid Phase Equilibria",
+    "discipline": "Chemical Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "The goal of this course to introduce molecular thermodynamics as a practical tool for engineering applications. In particular, the course would present the first year graduate student or senior undergraduate student a broad introduction to the thermodynamics of phase equilibria typically encountered in designing chemical products and processes. The course is suitable for those students who have completed their course in undergraduate thermodynamics. It would be further useful if the student has also done the first undergraduate course on chemic",
+    "prerequisite": " An introduction course on Thermodynamics",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ch35/preview"
+  },
+  {
+    "id": "noc24-ch29",
+    "title": "Waste to Energy Conversion",
+    "discipline": "Chemical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The course deals with the production of energy from different types of wastes through thermal, biological and chemical routes. It is intended to help the young scientific professionals to keep their knowledge upgraded with the current thoughts and newer technology options along with their advances in the field of the utilization of different types of wastes for energy production.",
+    "prerequisite": " It is a Elective Course for PG and UG with Hon.",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ch16/preview"
+  },
+  {
+    "id": "noc24-ch30",
+    "title": "Advanced Thermodynamics",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 weeks",
+    "description": "In any chemical process, often one encounter interaction between phases where transfer of species takes place from one phase to other. That is there exist several situations of vapor-liquid, liquid-liquid, vapor-liquid-liquid, solid-liquid equilibria in chemical engineering processes. Often these situations are dealt with assumption of ideal behavior and binary systems but in reality non-ideality and multicomponent mixtures exists and accordingly one has to deal with such situations. This course offers step-by-step understanding of required the",
+    "prerequisite": "UG Level Thermodynamics Course",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ch03/preview"
+  },
+  {
+    "id": "noc24-ch32",
+    "title": "Modeling Stochastic phenomena for Engineering applications: Part-1",
+    "discipline": "Chemical Engineering",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "Mechanics deals with deterministic laws to describe phenomena. However, the real world is replete with examples involving randomness. Brownian Motion, chemical reactions, pandemic propagation, eco-dynamics, material aggregation, nucleation, weather and climate, market fluctuations are some of the examples where randomness plays a key role. While the classical probability theory deals with characterising the random events: i.e., how to describe outcomes, what are the distributions etc, it does not deal with dynamical evolution of these probabili",
+    "prerequisite": " Probability theory, Integral transforms, differential equations, Mathematical methods",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ch32/preview"
+  },
+  {
+    "id": "noc24-ch34",
+    "title": "Applied Statistical Thermodynamics",
+    "discipline": "Chemical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "With the current emphasis on nano- and biotechnologies, descriptions at the molecular level can be used to create effective predictions in chemical engineering and physical chemistry. Classical thermodynamics can be used to relate heat and work and to describe various processes, including phase behaviour, chemical reaction equilibria, and flows on changes of state, but it hardly acknowledges the existence of molecules. This information can also be obtained by statistical thermodynamics, which begins with a description of individual molecules. A",
+    "prerequisite": "Thermodynamics at Undergraduate Level",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ch34/preview"
+  },
+  {
+    "id": "noc24-ch35",
+    "title": "Characterization of Polymers, Elastomers and Composites",
+    "discipline": "Chemical Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Introductory module will encompass the fundamentals on molecular and mesoscale organization of polymers and composites. The course embodies chemical analysis, identification of polymers, additives, elastomers and composites as per Indian and International standards. Spectroscopic techniques including IR, UV, NMR theory, principle and applications to polymers, elastomers, blends, composites and additives will be deliberated. Thermal analysis techniques including TGA, DSC, DMA, DETA will be elaborated in light of life prediction, degradation kine",
+    "prerequisite": "For students: High school knowledge in Chemistry, Physics and Mathematics are required. For R&D personals: UG or PG degree(s) in any of the mentioned subjects as mentioned earlier",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ch41/preview"
+  },
+  {
+    "id": "noc24-ch36",
+    "title": "Matlab Programming for Numerical Computation",
+    "discipline": "Chemical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "MATLAB is a popular language for numerical computation. This course introduces students to MATLAB programming, and demonstrate it’s use for scientific computations. The basis of computational techniques are expounded through various coding examples and problems, and practical ways to use MATLAB will be discussed.",
+    "prerequisite": "The students for this course are expected to know basics of linear algebra and calculus. These are covered in Introductory Math course(s) for Engineers (typically done in first year).This is intended to be practical (laboratory) course. Some prior ba",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ge10/preview"
+  },
+  {
+    "id": "noc24-ee03",
+    "title": "Photonic integrated circuit",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "This is a graduate-level course for those who are interested in Lightwave/photonic circuits. The course introduces essential concepts required to understand the operation of various integrated photonic components and draws a parallel with bulk components. This course will cover theory, design, fabrication, and application aspects of photonic materials and devices. In addition to lectures, a selection of demonstration of device fabrication and characterisation will be presented.",
+    "prerequisite": "Introduction to Photonics",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee35/preview"
+  },
+  {
+    "id": "noc24-ee04",
+    "title": "Deep Learning",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The availability of huge volume of Image and Video data over the internet has made the problem of data analysis and interpretation a really challenging task. Deep Learning has proved itself to be a possible solution to such Computer Vision tasks. Not only in Computer Vision, Deep Learning techniques are also widely applied in Natural Language Processing tasks. In this course we will start with traditional Machine Learning approaches, e.g. Bayesian Classification, Multilayer Perceptron etc. and then move to modern Deep Learning architectures lik",
+    "prerequisite": "None",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_cs62/preview"
+  },
+  {
+    "id": "noc24-ee05",
+    "title": "Electronics Enclosures Thermal issues",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISc",
+    "duration": "8 Weeks",
+    "description": "Electronics Design is understood as analysis and implementation at various levels from large systems installation to chip design. One of the aspects is failure due to temperature effects is constantly under study. Theory of Heat transfer has been understood and explained way back in 1700. Rigor and precision has resulted in seemingly complicated ‘equations’.",
+    "prerequisite": "12th standard",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee46/preview"
+  },
+  {
+    "id": "noc24-ee06",
+    "title": "Electronics equipment integration and Prototype building",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISc",
+    "duration": "8 Weeks",
+    "description": "This course teaches registrants on how to make a working prototype of electronic equipment.Typically most courses have a project component. Beyond demonstrating functionality at a breadboard level, converting it to a viable physical model is not covered in Labs at UG level.Attempt will be made to layout a system and finally make Drawings that can be used for fabrication in a workshop. Component selection, layout and Assembly will be demonstrated. Finally to make a working physical prototype.",
+    "prerequisite": "Basic electronics. Basic engineering drawing",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee01/preview"
+  },
+  {
+    "id": "noc24-ee07",
+    "title": "Fundamental of Power Electronics",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "The course introduces basics of power electronic devices and converters. Working principles, operating modes and analysis of AC-DC and DC-DC converters will be covered in detail. A flavour of DC-AC inverter will be introduced at the end of the course. This course uses SPICE simulation as a means for understanding and gaining more insight into the circuits. Control of power electronic converters will be explained.",
+    "prerequisite": "Electrical and electronic circuits, network theory and basics of semiconductor physics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee01/preview"
+  },
+  {
+    "id": "noc24-ee08",
+    "title": "Integrated Circuits, Mosfets, OP-Amps and their Applications",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "This course is a design-oriented course aimed at understanding fabrication, parameters, and specifications of integrated circuits, MOSFETs, Op-Amps as well as their applications in the Analog domain.",
+    "prerequisite": "B.Tech./B.E./M.Sc. and M.Tech./M.E.",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee13/preview"
+  },
+  {
+    "id": "noc24-ee09",
+    "title": "A brief introduction of Micro - Sensors",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IISER Bhopal",
+    "duration": "4 Weeks",
+    "description": "Main objective of this course is to introduce students to micro- and nano-scale devices. After successfully completing this short course, students will have an idea about MEMS and NEMS devices and their applications. They will know how to design, analyze and characterize a micro or nano system. They will also have an idea about MEMS fabrication.",
+    "prerequisite": "Basic Physics, Electronics and Mechanics",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee26/preview"
+  },
+  {
+    "id": "noc24-ee10",
+    "title": "Advanced topics in Wireless Communication (Hindi)",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IIIT Delhi",
+    "duration": "8 Weeks",
+    "description": "This course will provide an advanced level understanding of a wireless communication system. Starting with the overview of wireless systems and standards, the students will study the fundamental capacity limits of wireless channels along with transmission strategies to maximize the theoretical capacity The course will also cover fundamental coding techniques such as block, convolutional and trellis coding for wireless channels and will also touch upon the recent developments in concatenated, turbo and LDPC codes. The students will also learn th",
+    "prerequisite": "Mandatory:\n1. Principles of Signals and Systems\n2. Principles of Communication Systems\n3. Fundamentals of wireless communication\nDesirable:\n4.Matlab Coding",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ee10/preview"
+  },
+  {
+    "id": "noc24-ee13",
+    "title": "Analog Ic Design",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course will introduce advanced concepts in analog circuit design specifically relevant to CMOS IC design. It will cover circuit noise and mismatch, their analysis, and their impact on CMOS opamp design. As prerequisites, the student is expected to have undergone a course on (a) basic circuit theory and analysis (b) signals and systems and (c) MOS analog circuits. At the end of this course, the student should be able to design and analyze several types of CMOS opamps at the transistor level.",
+    "prerequisite": "UG course (or equivalent) on: Basic Electrical Circuits, Signals and Systems, Analog Circuits",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee37/preview"
+  },
+  {
+    "id": "noc24-ee14",
+    "title": "Circuit Analysis for Analog Designers",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The course is intended to cover topics in circuit analysis that an analog designer uses on a daily basis. After a refresher and building background in linear-time invariant networks, it introduces aspiring analog designers to more advanced topics like inter-reciprocal networks, analog filters, noise analysis of circuits, transmission lines and distributed circuits, and the analysis of circuits with weak nonlinearities. Another important topic, which is not covered in this course due to paucity of time, is that of the study of time-varying circu",
+    "prerequisite": "Engineering mathematics, a basic course on electric network analysis at the UG level, signals and systems.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee34/preview"
+  },
+  {
+    "id": "noc24-ee15",
+    "title": "Control engineering",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course shall introduce the fundamentals of modeling and control of linear time invariant systems; primarily from the classical viewpoint of Laplace transforms and a brief emphasis on the state space formulation as well. The course will be useful for students from major streams of engineering to build foundations of time/frequency analysis of systems as well as the feedback control of such systems. The 11th module of the course will cover a detailed application of filter design in the field of navigation and human movement (gait). Students ",
+    "prerequisite": " Network and Circuits, Basic Engineering Mathematics. we suggest the NPTEL course on Networks and Systems by Dr.V.G.K.Murti. Content in Lectures 1 -6 and 20-29 will be relevant for this course. ",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee31/preview"
+  },
+  {
+    "id": "noc24-ee16",
+    "title": "Digital Signal Processing and its Applications",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "The course begins with a discussion on Discrete Time signals and systems. This is followed by an introduction of the Z transform, its properties and system theoretic implications. The foundations of digital filter design and realization are built up. Practice Problems with solutions, summaries of each lecture and illustrative explanations of concepts are all additionally provided, to enhance learning.",
+    "prerequisite": " It would help if they have an exposure to ‘Signals and Systems’, although this is not a strict pre-requisite.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ee16/preview"
+  },
+  {
+    "id": "noc24-ee18",
+    "title": "Foundations of Wavelets and Multirate Digital Signal Processing",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITB",
+    "duration": "4 Weeks",
+    "description": "The word 'wavelet' refers to a little wave. Wavelets are functions designed to be considerably localized in both time and frequency domains. There are many practical situations in which one needs to analyze the signal simultaneously in both the time and frequency domains, for example, in audio processing, image enhancement, analysis and processing, geophysics and in biomedical engineering. Such analysis requires the engineer and researcher to deal with such functions, that have an inherent ability to localize as much as possible in the two doma",
+    "prerequisite": " Exposure to Signals and systems, Some basic Engineering Mathematics",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ee18/preview"
+  },
+  {
+    "id": "noc24-ee19",
+    "title": "Linear Dynamical Systems",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IIT Mandi",
+    "duration": "8 Weeks",
+    "description": "Linear system is the cornerstone of control theory and a prerequisite subject for almost all advanced level graduate courses in this area. The aim of this course is to take a beginning student, with some prior exposure to elementary transform and linear algebra, through a motivated and integrated development of the fuller perspective of the linear system theory. This course will also strengthen the basic logical arguments behind mathematical proofs.",
+    "prerequisite": "UG control systems, basics of linear algebra",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee47/preview"
+  },
+  {
+    "id": "noc24-ee20",
+    "title": "Microwave Integrated Circuits",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITB",
+    "duration": "8 Weeks",
+    "description": "Microwave Integrated Circuits is a course designed for introducing the field of Microwave Engineering to students, engineers and academics. Since at microwave frequencies, the distributed circuit effects become very prominent, new circuit theories based on Maxwell's laws have to be introduced. Further, new circuit design techniques as well as new circuit elements are also introduced. The first part of the course deals with the basics of theory. In the later part, the designs of various microwave devices like couplers, circulators, filters and a",
+    "prerequisite": "Basics of Network Theory",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee34/preview"
+  },
+  {
+    "id": "noc24-ee21",
+    "title": "Modern Computer Vision",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course explores both classical and deep learning-based approaches to computer vision. Starting from introduction to deep learning, it goes on to discuss traditional approaches as well as deep networks for a variety of vision tasks including low-level vision, 3D geometry, mid-level vision and high-level vision.",
+    "prerequisite": " Familiarity with image processing, linear algebra and probability is desirable but is not a must.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ee78/preview"
+  },
+  {
+    "id": "noc24-ee22",
+    "title": "Multirate DSP",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The key features of this course includes the following topics• An in-depth understanding of sampling, reconstruction, sampling rate conversion using multirate building blocks • Applications of multirate DSP – Filter design, Filterbanks, Transmultiplexer, Delta-Sigma A/D • Mathematical framework for Perfect Reconstruction Filter banks• Achieving capacity in wireless channels, motivation for Multicarrier modulation, Redundancy via zero padding and cyclic prefix • Mathematical framework for OFDM and its extensions • Introduction to Wavelets and Mu",
+    "prerequisite": "Basic course in Digital Signal Processingl",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee21/preview"
+  },
+  {
+    "id": "noc24-ee23",
+    "title": "Optical Fiber Sensors",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "Optical Fiber Sensors is intended as a senior undergraduate / graduate level course that introduces the different types of optical sensor technologies and their applications in metrology, navigation, and structural health monitoring",
+    "prerequisite": "Introduction to Photonics (preferable)",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee40/preview"
+  },
+  {
+    "id": "noc24-ee24",
+    "title": "Power Management Integrated Circuits",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "This course is intended to develop understanding of why power management circuits are needed in a VLSI system, what are the different components of a power management system with focus on voltage regulators. By the end of this course, students should be able to understand the concept behind power management circuits and design a linear (LDO) and switching regulator (dc-dc converter) for a given specifications using behavioral and circuit level simulators.",
+    "prerequisite": "Analog Circuits or equivalent or industry experience in analog circuit design",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee08/preview"
+  },
+  {
+    "id": "noc24-ee25",
+    "title": "Principles of Digital Communication",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITD",
+    "duration": "12 Weeks",
+    "description": "Digital communication is a fundamental course in the electronics and communication stream.The objectives of this course is to introduce the basic principles that underlie the analysis and successful design of a digital communication system. Digital communication systems have been used in all modern communication systems. Emphasis is placed on understanding system design goals and to optimize the tradeoff among basic system parameters such as signal-to-noise ratio, bandwidth, etc.",
+    "prerequisite": "Basic idea of Signals and Systems, and probability theory",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee10/preview"
+  },
+  {
+    "id": "noc24-ee26",
+    "title": "RF and Microwave Networks",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course begins with an introduction to microwave networks. Thereafter, it investigates the basic and general relationships of modal orthogonality in cylindrical guides of arbitrary cross-section. Field expressions and propagation behavior inside such guides are also investigated. Next, the obstacle problem in the waveguide is treated. This is followed by the analysis and network modeling of two waveguide discontinuities : the post and the diaphragm. Thereafter, the waveguide junction problem is investigated with reference to the capacitive a",
+    "prerequisite": "None",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ee36/preview"
+  },
+  {
+    "id": "noc24-ee27",
+    "title": "Semiconductor device modeling and Simulation",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "This course is a foundation level course on semiconductor devices. Course consist of three broad topics (1) Semiconductors properties, (2) Devices and (3) governing equations along with their boundary conditions. Course objective is to develop a sound physical and intuitive understanding of semiconductor devices and achieve ability to make some key decisions while designing applications specific semiconductor devices.",
+    "prerequisite": "None",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ee35/preview"
+  },
+  {
+    "id": "noc24-ee29",
+    "title": "CMOS Digital VLSI Design",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "This course brings circuit and system level views on design on the same platform. The course starts with basic device understanding and then deals with complex digital circuits keeping in mind the current trend in technology. The course follows a design perspective, starts from basic specifications and ends with system level blocks. Eight Assignments are provided which will add/help in understanding the course in a better manner both at conceptual as well as hands-on level.",
+    "prerequisite": "A basic course of Semiconductor Devices and Digital Electronics. A course on Computer Organization will be quite helpful.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee09/preview"
+  },
+  {
+    "id": "noc24-ee30",
+    "title": "EV - Vehicle Dynamics and Electric Motor Drives",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITD",
+    "duration": "8 weeks",
+    "description": "This course will be a first level course on electric vehicle. Students will be able to understand the operation of battery driven electric vehicle. The course will start with introduction section which will enable the students to understand the focus areas that come under the umbrella of electric vehicles. Then the course will start covering this focus areas one by one such as vehicle dynamics, Motors, Power Electronics, PWM, Control etc. The most important part of this course will be that each topic will bean analyzed and demonstrated through ",
+    "prerequisite": "BE (Electrical)",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ee30/preview"
+  },
+  {
+    "id": "noc24-ee31",
+    "title": "Electromagnetic Waves in Guided and Wireless Media",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "A thorough understanding of propagation and radiation of electromagnetic waves in both wired and wireless media is important in many fields such as microwave and RF engineering, antennas, wireless communications, and fiber-optics. In this course, we discuss guided electromagnetic wave propagation in transmission lines and metallic waveguides, light propagation in optical waveguides, fibers, and free-space. In the final part of the course, we cover basic concepts of antennas and channel models for wireless communications. Pre-requisites include ",
+    "prerequisite": "Vector analysis, Electrostatics, and Magnetostatics",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee43/preview"
+  },
+  {
+    "id": "noc24-ee32",
+    "title": "Fuzzy Sets, Logic and Systems & Applications",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITK",
+    "duration": "12 weeks",
+    "description": "The course is designed to give a solid grounding of fundamental concepts of fuzzy logic and its applications. The level of the course is chosen to be such that all students aspiring to be a part of computational intelligence directly or indirectly in near future should get these concepts.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee21/preview"
+  },
+  {
+    "id": "noc24-ee33",
+    "title": "Optimal control",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The optimization techniques can be used in different ways depending on the approach (algebraic or geometric), the interest (single or multiple), the nature of the signals (deterministic or stochastic), and the stage (single or multiple). The main objective of optimal control is to determine control signals that will cause a process (plant) to satisfy some physical constraints and at the same time extremize (maximize or minimize) a chosen performance criterion (performance index or cost function).",
+    "prerequisite": " Advanced Control System.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ee48/preview"
+  },
+  {
+    "id": "noc24-ee34",
+    "title": "Power Quality Improvement Technique",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The power quality of modern power distribution system is vulgarized due to the increased use of distributed sources,adjustable speed drive, nonlinear load and unbalanced load. The main challenge in the distribution system is the mitigation of power quality problems produced by load disturbances and supply disturbances [1], [2]. It can be mitigated by passive filters as well as active filters. The passive filters are economically cheap but their performance is poor compared to the active power filters [2]. Hence active power filters are preferre",
+    "prerequisite": "Power Electronics",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ee10/preview"
+  },
+  {
+    "id": "noc24-ee37",
+    "title": "Smart Grid: Basics to Advanced Technologies",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "This course covers the fundamental aspects of the smart grid and its application to the existing power system. It introduces state-of-the-art smart grid technologies like electric vehicles, AC/DC microgrids, energy storage, phasor measurement unit, cyber security, etc. In addition, the course talks about the trends, modeling, planning, operation, and control of energy storage technologies. Further, it discusses the architecture, operation, and control strategy of AC, DC, and hybrid AC-DC microgrids. This course also emphasizes on renewable ener",
+    "prerequisite": "Basic Understanding of Power System and Power Electronics Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ee60/preview"
+  },
+  {
+    "id": "noc24-ee38",
+    "title": "Computer Vision And Image Processing - Fundamentals And Applications",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "The intent of this course is to familiarize the students to explain the fundamental concepts/issues of Computer Vision and Image Processing, and major approaches that address them. This course provides an introduction to computer vision including image acquisition and image formation models, radiometric models of image formation, image formation in the camera, image processing concepts, concept of feature extraction and selection for pattern classification/recognition, and advanced concepts like motion estimation and tracking, image classificat",
+    "prerequisite": " Basic co-ordinate geometry, matrix algebra, linear algebra and random process.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ee39/preview"
+  },
+  {
+    "id": "noc24-ee39",
+    "title": "Design Of Power Electronic Converters",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Undergraduate level courses on power electronics teach different power converter circuits and methods to analyze them. But all jobs related to power electronics need good knowledge of designing hardware. Proper hardware design in power electronics involves knowledge of several topics which are beyond the scope of a core course in power electronics. This course intends to fill this gap. In this course, students will learn the important concepts needed to design proper power electronic hardware, simulation tools, proper designing of power PCB, de",
+    "prerequisite": " Introductory course on power electronics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee33/preview"
+  },
+  {
+    "id": "noc24-ee41",
+    "title": "Operation And Planning Of Power Distribution Systems",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "Due to the inception of various automation technologies and integration of distributed energy resources, the electrical power distribution systems are slowly transformed into smart and active networks. This course will provide an overview of modern power distribution systems. The course will start with the discussions of different components and layouts of power distribution systems, load models, different reliability assessment techniques, and different planning approaches. The conventional reactive power compensation techniques will also be c",
+    "prerequisite": " Basic electrical engineering, Electrical power system ",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ee35/preview"
+  },
+  {
+    "id": "noc24-ee42",
+    "title": "Transmission lines and electromagnetic waves",
+    "discipline": "Electrical and Electronics Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "Bridge course to practical aspects of engineering electromagnetics for entering Graduate students and senior undergraduate students. The course will involve hands on programming to visualize most aspects of electromagnetics and transmission lines.",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ee42/preview"
+  },
+  {
+    "id": "noc24-ge01",
+    "title": "Multi-Criteria Decision Making and Applications",
+    "discipline": "Multidisciplinary",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "In all domain of multiple levels decision making considering numerous alternative and conflicting criterion, it becomes imperative for the decision maker (DM)/set of decision makers (DMs) to come up with the best solution. Ideas of Multi Criteria decision making (MCDM) (comprising of multi objective optimization (MOO) and multi attributive decision making (MADM)) help DMs to make rational as well mathematical well grounded decision to solve these set of problems. In many cases when stakes are high and one has non-commensurable units of measurem",
+    "prerequisite": "BTech/BSc Statistics\n2. BTech/BSc Operations Research",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ge01/preview"
+  },
+  {
+    "id": "noc24-ge02",
+    "title": "An Introduction to Urban Ecological Heritage: Theories and Applications",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "4 weeks",
+    "description": "For a long period of time, cities were considered antithetical to nature. While cities implied buildings, bridges, and urban infrastructures, and urban heritage signified preservation of historical architecture, ecology consisted of forests, pasture lands, wetlands, waterbodies, etc. It is only recently that there is a greater awareness that cities and nature are inherently interconnected to each other and the protection of the latter ensures urban sustainability and resilience. This provokes us to think about ‘urban ecological heritage’ – enab",
+    "prerequisite": "Students, researchers, practitioners, government agencies, heritage activists, environmentalists, right-based think tanks, etc. across global scales",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ge02/preview"
+  },
+  {
+    "id": "noc24-ge03",
+    "title": "Vulnerability Studies: An Introduction",
+    "discipline": "Multidisciplinary",
+    "institute": "University of Hyderabad",
+    "duration": "8 Weeks",
+    "description": "This course is an elective for UG and PG students across the Humanities and Social Sciences, including Literary Studies, Cultural Studies and Media Studies. It aims to introduce the students to basic concepts in Vulnerability Studies, an emerging discipline. It introduces theories of precarity/vulnerability, resistance, resilience, and others. It then turns to specific forms and domains of vulnerability, from willed vulnerability in extreme sports, to ageing and childhood-related vulnerabilities. Each of these will be illustrated through exampl",
+    "prerequisite": "Undergrad and postgrad students.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ge03/preview"
+  },
+  {
+    "id": "noc24-ge04",
+    "title": "Pulmonary Function tests - Interpretation and application in clinical practice",
+    "discipline": "Multidisciplinary",
+    "institute": "Chettinad Hospital and Research Institute",
+    "duration": "4 Weeks",
+    "description": "In the current era, accurate interpretation of any diagnostic test is mandatory to clinical competence. This course on pulmonary function test – Interpretation and application in clinical practice would benefit any health worker in interpreting and diagnosing various lung alterations. Spirometry is one of the most commonly tested pulmonary function and an easy to use, bedside diagnostic tool. This 4-week course will give you the details starting from the physiological concepts of pulmonary function to the clinical disease and the diagnostic mod",
+    "prerequisite": "MBBS, MD/MS,PhD, BDS, BSc Nursing, BSc Allied health sciences,Students who are pursuing or have completed basic sciences",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ge04/preview"
+  },
+  {
+    "id": "noc24-ge05",
+    "title": "Basic Certificate in Palliative Care",
+    "discipline": "Multidisciplinary",
+    "institute": "INTERNATIONAL INSTITUTE OF DISTANCE LEARNING AN INITIATIVE OF NAPCAIM",
+    "duration": "12 Weeks",
+    "description": "The Basic Certificate in Palliative Care is an advanced course in Palliative Care. The course contains the basic information about Palliative Care, Pain Management, Symptom Management and a detailed information about psycho-social and spiritual aspects of palliative care. The course will enhance the knowledge about the various Government programs for palliative care, NDPS Rule 2025 and Models of palliative Care in practice. The course will complimentary to practice of all healthcare professional, including doctors, AYUSH doctors, Nurse, Paramed",
+    "prerequisite": "SSC",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_ge05/preview"
+  },
+  {
+    "id": "noc24-ge07",
+    "title": "NBA Accreditation and Teaching and learning in Engineering (NATE)",
+    "discipline": "Multidisciplinary",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "The quality of Teaching and Learning in Engineering has come to be an important issue in India to all stakeholders including teachers, students, parents, Managements, University, AICTE, NBA, and Industry, especially after the introduction of new Accreditation Process introduced by NBA in 2015. The quality of learning of the graduating engineers determines the quality of their placements. While there was significant research in the last few decades in our understanding of how people learn, there have not been many intersections of this knowledge",
+    "prerequisite": "Degree in Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ge11/preview"
+  },
+  {
+    "id": "noc24-ge08",
+    "title": "Teaching And Learning in Engineering (TALE)",
+    "discipline": "Multidisciplinary",
+    "institute": "IISc",
+    "duration": "4 Weeks",
+    "description": "The quality of Teaching And Learning in Engineering (TALE) has come to be an important issue in India to all stakeholders including teachers, students, parents, Managements, University, AICTE, NBA and Industry. The quality of learning of the graduating engineers determines the quality of their placements. While there has been significant increase in the last few decades in our understanding of how people learn, there has not been much intersection of this knowledge with the instructional practices at institutions of higher learning. The dominan",
+    "prerequisite": "Degree in Engineering",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ge07/preview"
+  },
+  {
+    "id": "noc24-ge09",
+    "title": "Basic Course in Ornithology",
+    "discipline": "Multidisciplinary",
+    "institute": "NCF IISER Mohali SACON IISER Bhopal NCF IISER Tirupati IISc",
+    "duration": "12 Weeks",
+    "description": "The course intends to introduce students to the scientific study of birds (ornithology). It covers basics of a range of topics like bird anatomy, physiology, taxonomy, behaviour, conservation. It is ideal for students pursuing their Bachelors and Masters degree in life sciences and for those who want to explore ornithology as a career option. It is also useful for birdwatchers and other enthusiasts from among the larger public who wish to deepen their understanding and appreciation of birds.",
+    "prerequisite": " Participants should have completed at least the first year of undergraduate degree",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ge10/preview"
+  },
+  {
+    "id": "noc24-ge11",
+    "title": "Biophotonics",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "Biophotonics is a multidisciplinary field where light-based technologies are utilized to reveal biological mechanisms, and diagnose several diseases along with finding their treatments. This course introduces the basics of biology and photonics, and provides the most relevant and important application from chemistry, biology, and medicine. For examples, it includes how to detect and identify new viruses (such as the Coronavirus) and how to measure neural activities in live mouse.\nNo specific prior knowledge is required to take the course; howev",
+    "prerequisite": "None but basic knowledge of optical physics will be useful",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ge13/preview"
+  },
+  {
+    "id": "noc24-ge12",
+    "title": "Designing Learner-Centric MOOCs",
+    "discipline": "Multidisciplinary",
+    "institute": "IITB",
+    "duration": "8 Weeks",
+    "description": "Massive Open Online Courses (MOOCs) have become a popular avenue for diverse learners to upgrade their knowledge and skills. Instructors who are new to creating MOOCs tend to focus on the use of technology features to mimic their classroom actions. While it is necessary to be aware of the technology affordances, it is more important to focus on the pedagogy of how to use the MOOC features effectively to foster student engagement and learning. Hence MOOC instructors need a set of design principles and guidelines to create a learner-centric MOOC",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ge11/preview"
+  },
+  {
+    "id": "noc24-ge13",
+    "title": "Effective Engineering Teaching In Practice",
+    "discipline": "Multidisciplinary",
+    "institute": "IITM",
+    "duration": "4 Weeks",
+    "description": "Traditionally, teachers are not trained to teach professional courses. Thus, they learn even the essential principles of teaching through experience, ‘on the job’. This leads to a less than satisfactory in-class learning experience for most students in many courses, except if the teacher has a natural orientation to teaching. This course is aimed to introduce the essentials of facilitation of student learning (‘teaching’) in an interesting way to any teacher of professional courses, with a special focus on engineering. Further, education is a v",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ge05/preview"
+  },
+  {
+    "id": "noc24-ge14",
+    "title": "Engineering Statistics",
+    "discipline": "Multidisciplinary",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "We have to deal with data all the time and it has to be analyzed in a systematic way to extract information. This course introduces all basic concepts in statistics and prepares one to use statistics in many engineering applications. Sound knowledge of statistics is important to develop good machine learning and artificial algorithms. This course will also focus giving exposure various statistical tools available in Python.",
+    "prerequisite": "Basic Probability",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ge25/preview"
+  },
+  {
+    "id": "noc24-ge15",
+    "title": "Entrepreneurship Essentials",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "12 Weeks",
+    "description": "The course provides foundational knowledge on various aspects of entrepreneurial venture creation and management during its life-cycle. It has been designed to address multidisciplinary audiences. The objective of the course is to teach key issues faced by entrepreneurs and managers at different stages of the life-cycle of an enterprise and is relevant both for aspiring entrepreneurs and for decision makers in established enterprises. Topics can be classified in some major themes such as : Making a choice to create an entrepreneurial venture, c",
+    "prerequisite": "nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_ge08/preview"
+  },
+  {
+    "id": "noc24-ge16",
+    "title": "Foundation Certificate In Palliative Care",
+    "discipline": "Multidisciplinary",
+    "institute": "INTERNATIONAL INSTITUTE OF DISTANCE LEARNING AN INITIATIVE OF NAPCAIM",
+    "duration": "12 Weeks",
+    "description": "This course aims to build strong foundation of those who wish to provide holistic Palliative Care to the patients in early as well as advance course of disease so as to improve their quality of life.\n\nFoundation Certificate in Palliative Care is listed in the International Directory of the Palliative Care Courses of IAHPC which will offer 1 year free Membership to our students worth USD 37.5.",
+    "prerequisite": "SSC 10th Std",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ge08/preview"
+  },
+  {
+    "id": "noc24-ge17",
+    "title": "Fuzzy Logic And Neural Networks",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "This course will start with a brief introduction to fuzzy sets. The differences between fuzzy sets and crisp sets will be identified. Various terms used in the fuzzy sets and the grammar of fuzzy sets will be discussed, in detail, with the help of some numerical examples. The working principles of two most popular applications of fuzzy sets, namely fuzzy reasoning and fuzzy clustering will be explained, and numerical examples will be solved. Fundamentals of neural networks and various learning methods will then be discussed. The principles of m",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_ge07/preview"
+  },
+  {
+    "id": "noc24-ge18",
+    "title": "Groundwater hydrology and management",
+    "discipline": "Multidisciplinary",
+    "institute": "IITB",
+    "duration": "12 Weeks",
+    "description": "Groundwater is the most important water resource that aids during climate change extremes (floods and droughts). Groundwater has also been the key factor for increase in cropped area, rotation and profit for farmers. However, the groundwater science is not well understood and hence it is depleted at alarming rates. India is the highest extractor of groundwater in the world and it is necessary to understand groundwater hydrology to better work in water resources management activities.",
+    "prerequisite": "Students in Civil Engineering, Rural Development, Earth Science, Geology and Rural development departments. Development, Earth Science, Geology and Rural development departments.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ce44/preview"
+  },
+  {
+    "id": "noc24-ge20",
+    "title": "Introduction to Reliability Engineering",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "Every engineer should be aware of customer needs expressed in terms of reliability requirements. A successful product/system need to translate these requirements and ensure that the reliability requirements are met. It is essential to understand terms and how they are evaluated. At present most products need to provide reliability information along with functions. This course will help students to know this important aspect and way to address these requirements.",
+    "prerequisite": "UG/PG Students from all engineering branches",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ge20/preview"
+  },
+  {
+    "id": "noc24-ge21",
+    "title": "Research Methodology",
+    "discipline": "Multidisciplinary",
+    "institute": "IITM",
+    "duration": "8 Weeks",
+    "description": "Large numbers of students are actively considering and taking up research and associated higher studies. This course aims to introduce students to the important aspects of research. The intent of the course is to make students aware of the details associated with formal research and to help students overcome common misconceptions that may be present in their minds. By going through this course, students are likely to be able to take up research activities in a more systematic and formal manner right from the beginning.",
+    "prerequisite": "Students who have completed undergraduate studies (in Engineering or Science) will be in a better position to benefit from this course",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ge36/preview"
+  },
+  {
+    "id": "noc24-ge22",
+    "title": "Management of Medical Emergencies in Dental Practice",
+    "discipline": "Multidisciplinary",
+    "institute": "Sree Balaji Dental College & Hospital and Tagore Dental College & Hospital",
+    "duration": "8 Weeks",
+    "description": "In clinical dental practice, life-threatening emergencies can and do occur. Adverse medical events occur despite all appropriate measures to prevent them from developing. They can happen to anyone–a patient, a doctor, a dental office staff, or a person who is merely accompanying the patient. A number of factors exist today that may increase the likelihood of such incidents.\n\nIn the absence of any India specific online course on this topic, we aim to illustrative and precise information on the knowledge and methods to manage such medical emergen",
+    "prerequisite": "Undergraduate students, Postgraduate trainees in dental surgery & dental practitioners",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_ge09/preview"
+  },
+  {
+    "id": "noc24-ge23",
+    "title": "Nanobio Technology Enabled Point-of-Care Devices",
+    "discipline": "Multidisciplinary",
+    "institute": "IITKGP",
+    "duration": "8 Weeks",
+    "description": "The course addresses the approach of how to develop the portable, reusable, robust, ultrasensitive and efficient point-of-care (POC) systems that has received significant attention in the healthcare system and analytical process and explains the science behind the detection of analyte of interest at the early stage of diagnosis. Students also will learn the techniques of commercialization of diagnostic devices.",
+    "prerequisite": "10+2 (only basic Sciences)",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_ge21/preview"
+  },
+  {
+    "id": "noc24-me04",
+    "title": "Experimental Stress Analysis",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The course covers the basic aspects of experimental stress analysis that includes exhaustive treatment of the most versatile techniques like photoelasticity and strain gauges and also a brief introduction to the emerging techniques like digital image correlation. In addition it also provides the fundamental aspects of six different experimental techniques such as Moiré, Brittle Coatings, Holography, Speckle Methods, Thermoelastic Stress Analysis and Caustics.",
+    "prerequisite": "The course covers the basic aspects of experimental stress analysis that includes exhaustive treatment of the most versatile techniques like photoelasticity and strain gauges and also a brief introduction to the emerging techniques like digital image",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me02/preview"
+  },
+  {
+    "id": "noc24-me05",
+    "title": "Acoustic Materials And Metamaterials",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The study of electromagnetic and acoustic waves is an endeavor that dates back centuries. An important sub-domain of this field that effects our daily life is the use of acoustic principles to control environmental noise. In this regard, acoustic materials, which are materials designed to manipulate sound wave propagation, are of prime importance. Within this field, about three decades ago, the concept of metamaterials was proposed that has created a revolution. Theoretical formulation and experiments have shown the feasibility of realizing man",
+    "prerequisite": "Mathematics (up to Class 12th), Physics (up to Class 12th)",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me48/preview"
+  },
+  {
+    "id": "noc24-me06",
+    "title": "Automatic Control",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "Automatic Control is the theory used in various applications, for example, manufacturing of a product, refrigeration and air conditioners, aircraft, missile, satellite launching, etc. The study of a dedicated course is required to understand the fundamental and advance concepts of automatic controls for engineers and designers. This course is of basic level. It introduces design and modelling of a control system, theory of transfer functions, poles, zeros, block diagram algebra, transient response analysis of first and second order systems, sta",
+    "prerequisite": "Completed first year of BE/BTech.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me12/preview"
+  },
+  {
+    "id": "noc24-me07",
+    "title": "Convective Heat Transfer",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "4 Weeks",
+    "description": "Convection is a major mode of heat transfer when fluid is attached with the source. Processes of convection are fundamental and linked up with fluid mechanics laws and derivations of thermodynamics. Convective heat transfer has its wide horizon spreading from flow over a flat plate under constant heat flux or constant temperature boundary conditions to thermally developing or developed flow inside a duct. Moreover convection theories will widely vary depending on medium flow field which differentiates forced flow and natural gravity driven heat",
+    "prerequisite": "Fluid Mechanics and Thermodynamics.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me23/preview"
+  },
+  {
+    "id": "noc24-me08",
+    "title": "Failure Analysis And Prevention",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The course content is designed to systematic understanding on various aspects related with failure such as fundamental sources of failure of mechanical components, industrial engineering tools relevant to failure and failure analysis, general procedure of failure analysis through sample collection, preparation and preservation, testing, macro and microscopic observation of fracture, mode of fracture, metallographic procedure and image analysis, use of fracture mechanics and fracture toughness principles in failure analysis and analysis findings",
+    "prerequisite": "Nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me05/preview"
+  },
+  {
+    "id": "noc24-me09",
+    "title": "Financial Mathematics",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The course on Financial Mathematics focuses on the mathematical properties and relations between concepts of financial and currency markets in investment and other economic activities. The course aims to enthuse confidence in participants to be able to address issues related to globalization of financial markets, development and feasibility of financial transactions, the increasing complexity of portfolio investments, analyzing and forecasting market developments etc. Students in the course will gain an in-depth understanding of advanced econom",
+    "prerequisite": "Basic Mathematics, Probability",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_me36/preview"
+  },
+  {
+    "id": "noc24-me10",
+    "title": "Inspection And Quality Control In Manufacturing",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "4 Weeks",
+    "description": "In manufacturing, quality control is a process that ensures customers receive products free from defects and meet their requirements. Inspection and measurement is needed during production for quality control because of the inherent variability introduced by the machines, tools, raw materials, and human operators which causes variations in the different quality characteristics (length, diameter, thickness, tensile strength, surface finish etc.) of the product. Inspection and testing is very important in maintaining a certain quality level in th",
+    "prerequisite": "nil",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me47/preview"
+  },
+  {
+    "id": "noc24-me11",
+    "title": "Manufacturing Guidelines For Product Design",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "Competition in the key word in today’s business environment. The major objective of the companies worldwide is to conceptualize, design and develop products that not only satisfy the customer’s needs and wants but also are competitive from cost as well as quality point of view. But it has been observed that our product design and development cycle usually follows a traditional/conventional approach that leads to a lot of non-value added features in the product. Moreover, these features also increase the manufacturing cost of the product. Theref",
+    "prerequisite": "No-prerequisite, any student enrolled for a UG/PG/Ph.D. degree in any discipline of Mechanical Engineering and Production Engineering.",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me44/preview"
+  },
+  {
+    "id": "noc24-me12",
+    "title": "Mechanical Measurement Systems",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "This Course provides a simple understanding of the mechanical measurement systems and statistical analysis of experimental data. The course contains the generalized configuration and functional elements of measuring systems, static and dynamic characteristics of measuring instruments. The course also include the instrumentation for displacement, strain, velocity, force, toque, power, pressure, sound, flow and temperature measurement.",
+    "prerequisite": "Mechanical Engineering and Professionals.",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_me12/preview"
+  },
+  {
+    "id": "noc24-me13",
+    "title": "Mechatronics",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The word mechatronics is composed of “mecha” from mechanism and the “tronics” from electronics. It is the synergistic integration of mechanical engineering, with electronics and intelligent computer control in the design and manufacturing of industrial products and processes. Mechatronics generally involves (i) implementing electronics control in a mechanical system (ii) enhancing existing mechanical design with intelligent control and (iii) replacing mechanical component with an electronic solution. This course will cover all aspects related w",
+    "prerequisite": "Mechanical/Electrical/Electronic under graduate and post graduate students",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me27/preview"
+  },
+  {
+    "id": "noc24-me14",
+    "title": "Modelling And Simulation Of Dynamic Systems",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The term modeling refers to the development of a mathematical representation of a physical system while the term simulation refers to the procedure of solving the equations that resulted from model development. The quality or usefulness in a model is measured by its ability to capture the governing physical features of the problem. Here, the expertise of the modeler is useful. The model is amenable to manipulation which would be impossible, too expensive, or too impractical to perform on the system which it portrays. This feature makes it a ver",
+    "prerequisite": "B. Tech/M.Tech students or Professionals, It is a core course for PG and Elective course for UG.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me25/preview"
+  },
+  {
+    "id": "noc24-me15",
+    "title": "Operations Management",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "12 Weeks",
+    "description": "The current competitive business environment is forcing the organizations to adopt the latest tools, techniques and strategies for managing their resources in the most effective and efficient manner. The topics of the course deals with the management of resources and activities that lead to production of goods of right quality, in right quantity, at right time and place in the most cost-effective manner. The course focuses on the basic concepts, issues, and techniques adopted worldwide for efficient and effective operations. The topics include ",
+    "prerequisite": "No-prerequisite, any student enrolled for a UG/PG degree in any discipline of Mechanical Engineering,",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_me30/preview"
+  },
+  {
+    "id": "noc24-me16",
+    "title": "Principles Of Casting Technology",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "The course focuses on understanding the basics of science and technology of casting processes. Metal casting industries have evolved during the past hundred years because of advancements in technologies. The properties of the cast metals significantly depends upon the type of molding, melting, solidification and post treatment practices. This needs to be understood by the young students as well as practicing shop floor engineers so that products with superior qualities can be cast. The basic purpose of this course is to provide a sound understa",
+    "prerequisite": "Any Interested Learners",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me48/preview"
+  },
+  {
+    "id": "noc24-me18",
+    "title": "Robotics and Control : Theory and Practice",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "Robotics has stimulated an growing interest among a wide range of scholars, researchers and students due to its interdisciplinary characteristics. The development of this field of science is boosted by various domains which are not limited to Cybernetics, Controls, Computers, Mechanics, Bio-Engineering, and Electronics. Among these areas, modelling, control, planning play a fundamental role not only in the growth of industrial robotics, but also towards the advanced fields including healthcare and field robotics. \nThrough this course the partic",
+    "prerequisite": "Electrical Engineering, Computer Science Department, Mechanical Engineering, \nElectronics and Communication Engineering, Mathematics Department.",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_me03/preview"
+  },
+  {
+    "id": "noc24-me19",
+    "title": "Steam And Gas Power Systems",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "This Course provides a simple understanding of the steam and gas power systems. The course contains the analysis of vapour power cycle i.e. Rankine cycle, steam generators and their accessories, Performance of Boilers and combustion of fuel, high pressure boilers, flow through steam and gas nozzles, different type of steam turbines for power generation and condensers. The gas turbine cycle, working of gas turbines, centrifugal compressors, axial compressors and combustion chamber of gas turbines.",
+    "prerequisite": "It is a core course for UG students of Mechanical Engineering.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me21/preview"
+  },
+  {
+    "id": "noc24-me20",
+    "title": "Surface Engineering Of Nanomaterials",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "8 Weeks",
+    "description": "Surface engineering (SE) is a sub-discipline of Materials Science and Materials Engineering which deals with the surface of a solid and its modifications. The primary goal of SE of nanomaterials is to modify the properties of surface to improve its electrical and thermal properties, and to improve the compatibility of nanomaterials with some matrix when they are used as reinforcing fillers in composites for high performance applications.",
+    "prerequisite": "Nano Science Nanotechnology, Chemical Engg, Chemistry, Aerospace Engg, Material Science and Mechanical Engg. etc.",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_mm10/preview"
+  },
+  {
+    "id": "noc24-me21",
+    "title": "Two Phase Flow And Heat Transfer",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITR",
+    "duration": "4 Weeks",
+    "description": "Two phase flow with or without phase change is commonly encountered in a variety of engineering processes. The power generation, nuclear reactor technology, food production, chemical process, aerospace and automotive industries are all driving forces in this complex field. Due to its universality in applications, a thorough understanding of two phase flow is of utmost important. Present course is driven by this requirement and distributed broadly into two sub parts. The experimental part will provide knowledge on the selection, installation and",
+    "prerequisite": "Bachelor students in Mechanical/Chemical/Aerospace/Civil Engineering \nMiddle level managers from related industry\n: Fluid Mechanics and Heat Transfer",
+    "url": "https://onlinecourses.nptel.ac.in/noc20_me32/preview"
+  },
+  {
+    "id": "noc24-me22",
+    "title": "Introduction to Soft Matter",
+    "discipline": "Mechanical Engineering",
+    "institute": "IISc",
+    "duration": "8 Weeks",
+    "description": "Introductory course on soft matter/complex fluids. A review of preliminaries of continuum mechanics, which are required for dealing with soft matter. General concepts of viscous and elastic deformations and relevant models. Experimental approaches to soft materials such as creep response and stress relaxation.",
+    "prerequisite": "Mechanical Engineering, Chemical Engineering, Aerospace Engg, Physics, Interdisciplinary sciences",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me27/preview"
+  },
+  {
+    "id": "noc24-me23",
+    "title": "Robotics: Basics and Selected Advanced Concepts",
+    "discipline": "Mechanical Engineering",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "This course starts with an introduction to robotics, the key elements and constituents of a robot and science and technology in robots. It provides a unified treatment for the modelling and analysis of serial, parallel, and hybrid manipulators using the key concept of Denavit-Hartenberg parameters, solution of the direct and inverse kinematics of serial and parallel robots and the associated concepts of workspace and mobility are presented. The concept of velocity of the links of the robots and the Jacobian matrix is developed and the associate",
+    "prerequisite": "Primarily Master’s and Ph D students in mechanical, electrical and computer science disciplines. UG students taking Robotics as an elective. \nUG level mathematics and programming knowledge",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me37/preview"
+  },
+  {
+    "id": "noc24-me24",
+    "title": "Advanced Robotics",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "The course is intended as a second level course for students, teachers and industry personal interested in learning the advanced concepts in robotics, as required in the design and control of robotic systems. This course is not intended as a basic course for learning robotics. The course starts with an introduction to robotics, linkages and workspaces, transformations, kinematics, trajectory planning and dynamics. Next, singular value decomposition is introduced to explain the concept of manipulation ability that is followed by the basics of li",
+    "prerequisite": "Students (UG 3rd/4th year in Mechanical/Electrical/Computer Science), Teachers of engineering colleges, Industry professorial \n\nBasic Mathematics : matrices, differential equations \n",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me51/preview"
+  },
+  {
+    "id": "noc24-me25",
+    "title": "Basics of Finite Element Analysis - II",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "This course is intended for all those who want to learn FEA from an application standpoint. Currently, many users of FEA have limited understanding of theoretical foundation of this powerful method. The consequence is that quite often they use commercial codes inaccurately, and do not realize that their results may be flawed. The course is intended to address this limitation by making the student aware of the underlying mathematics in easy to understand format.The course is open to all engineering students who have at the minimum successfully c",
+    "prerequisite": "UGs, PGs, professionals in industry who want to learn about basics of sound and acoustics \n\nMust be enrolled into a B. Tech. program or equivalent and should have completed second year of his 4-year program",
+    "url": "https://onlinecourses.nptel.ac.in/noc23_me63/preview"
+  },
+  {
+    "id": "noc24-me26",
+    "title": "Computational Fluid Dynamics For Incompressible Flows",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "This is introductory course on computational fluid dynamics (CFD). This course will primarily cover the basics of computational fluid dynamics starting from classification of partial differential equations, linear solvers, finite difference method and finite volume method for discretizing Laplace equation, convective-diffusive equation & Navier-Stokes equations. The course will help faculty members, students and researchers in the field to get an overview of the concepts in CFD.",
+    "prerequisite": "Undergraduate and postgraduate students of Mechanical Engineering and similar branches; \nFaculty members associated with Mechanical Engineering; Practicing engineers associated \nwith fluid and thermal industries. \nNo specific pre-requisite. Fundament",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me46/preview"
+  },
+  {
+    "id": "noc24-me27",
+    "title": "Computer Integrated Manufacturing",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITK",
+    "duration": "12 Weeks",
+    "description": "Use of computers in manufacturing in order to design and develop the products has found unprecedented applications. Computer integrated way of manufacturing providesa myriad of benefits such as speed, flexibility, and better control. In this course, Computer Integrated Manufacturing (CIM) approaches are discussed. CAD/CAM tools and their within and between the production systems are presented along with appropriate case studies. Data storage and handling is also the need of contemporary manufacturing systems. This is also catered using software",
+    "prerequisite": "Students of all Engineering and Science disciplines. \nThe student should have completed two semesters of UG Engineering or Science program.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me10/preview"
+  },
+  {
+    "id": "noc24-me28",
+    "title": "Design Practice",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITK",
+    "duration": "8 Weeks",
+    "description": "The course is intended for beginners in post graduate studies in Design. It can also serve well for aspiring professionals in industry who will be willing to undertake careers in the field of design.",
+    "prerequisite": "SMIL (Gurgaon), HAL Kanpur and Lucknow, Small and medium scale production industries",
+    "url": "https://onlinecourses.nptel.ac.in/noc19_me49/preview"
+  },
+  {
+    "id": "noc24-me29",
+    "title": "Dynamics and Control of Mechanical Systems",
+    "discipline": "Mechanical Engineering",
+    "institute": "IISc",
+    "duration": "12 Weeks",
+    "description": "This course deals with dynamics and control of mechanical systems. The main contents of the dynamics portion of the course are modeling and representation of rigid bodies in 3D space using position and orientation (rotation matrices, Euler angles, quaternions), system of rigid bodies with constraints, linear and angular velocities and accelerations of connected rigid bodies, inertia and external forces and moments acting on a rigid body, derivation and numerical solution of equations of motion obtained using Newton-Euler and Lagrangian approach",
+    "prerequisite": "Primarily first year Master’s and Ph D student in Mechanical Engineering and final year Undergraduate students as an elective. \n\nBasic UG level mathematics and engineering mechanics and basic programming knowledge.",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me96/preview"
+  },
+  {
+    "id": "noc24-me30",
+    "title": "Evolutionary Computation For Single And Multi-Objective Optimization",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Evolutionary computation (EC) is a sub-field of computational intelligence that use ideas and get inspiration from natural evolution. It is based on Darwin’s principle of evolution where the population of individuals iteratively performs search and optimization. EC techniques can be applied to optimization, learning, design and many more. This course will concentrate on the concepts, algorithms, hand-calculations, graphical examples, and applications of EC techniques. Topics will be covered include binary and real-coded genetic algorithms, diff",
+    "prerequisite": "Final and Pre-final year UG students, PG Students and Candidates from Industries \n: Elementary Mathematics and Programming",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me43/preview"
+  },
+  {
+    "id": "noc24-me31",
+    "title": "Explosions and Safety",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITM",
+    "duration": "12 Weeks",
+    "description": "The physical principles governing the various kinds of explosions are dealt with. Starting with simple modeling of blast waves derived from energy release in explosions, predictions for the damage caused by explosions and methods of ensuring safety are considered. The mechanisms of energy release in gaseous, liquid, dust and solid explosives are examined. Physical explosions and explosions of pressure vessels are also considered. The interaction of blast waves from explosions with objects is dealt with and the damages that occur are quantified.",
+    "prerequisite": "Engineering students and practicing engineers \n: Basic Mechanics and Thermodynamics",
+    "url": "https://onlinecourses.nptel.ac.in/noc22_me37/preview"
+  },
+  {
+    "id": "noc24-me32",
+    "title": "Finite Element Modeling Of Welding Processes",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITG",
+    "duration": "12 Weeks",
+    "description": "The welding process involves complex interaction of several mechanisms. The fundamental understanding relied on basic mechanisms such as heat transfer and/or fluid flow, and associated distortion and residual stress generation including the effect of metallurgical transformation for a welding process is the focus of this course. It helps to develop the numerical model, and makes the foundation for analysis and experimentation for the process. The development of computational models for welding process relies on mathematical expression of the go",
+    "prerequisite": "Bachelor/Master/PhD students having background in Mechanical/Material Science/Metallurgical engineering/ Production Engineering/Manufacturing Technology The faculty of different institutes can attend this course as a part of FDP.",
+    "url": "https://onlinecourses.nptel.ac.in/noc21_me36/preview"
+  },
+  {
+    "id": "noc24-me33",
+    "title": "Fundamental Of Welding Science And Technology",
+    "discipline": "Mechanical Engineering",
+    "institute": "IITG",
+    "duration": "8 Weeks",
+    "description": "Prof. Pankaj Biswas going to offer a course on Fundamental of Welding Science and Technology under the MOOCS program of the MHRD. As the name implies in this course he will try to cover the fundamental overview of the traditional/ industrial welding technology espeacially those welding processes which are widely used in manufacturing industries. This will help the participants to understand and apply this knowledge of welding in practice for various industrial applications. It will also encourage academic participants to increase the research i",
+    "prerequisite": "Undergraduate/Postgraduate",
+    "url": "https://onlinecourses.nptel.ac.in/noc24_me33/preview"
+  }
+]
